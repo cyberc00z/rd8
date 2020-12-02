@@ -1,10 +1,13 @@
 ---
 title: Nirvana
 date: "2020-12-01"
-description: Perfect One
+description: Nirvana towards Life and Desire.
 ---
 
 ###### i^
+
+![image](hell.jpg)
+
 Conquering the whole;
 <br>
 Therefore; i digged the grave.
@@ -25,7 +28,7 @@ My bones are erosed by hights,
 <br> 
 My flesh became food for Earth;
 <br>
-And, my breath absorbed by wind.
+And, my breath absorbed by Birth.
 <br>
 But now, i am coming for you!
 <br>
