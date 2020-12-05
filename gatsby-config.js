@@ -28,6 +28,12 @@ module.exports = {
         name: `assets`,
       },
     },
+    {
+      resolve:`gatsby-plugin-google-adsense`,
+      options:{
+        publisherId: `ca-pub-8671987603322213`
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
