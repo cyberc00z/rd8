@@ -33,4 +33,3 @@ I have done fuck!
 It is becoming soo boring every day.Nobody gonna escape this span of years .
 The black years of earth which will lay down some sort of foundation of Dark Time for Human Kind.
 
-* 
