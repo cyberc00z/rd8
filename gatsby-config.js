@@ -2,14 +2,14 @@ module.exports = {
   siteMetadata: {
     title: `PhiloTech Blog`,
     author: {
-      name: `Rahul Goswami`,
+      name: `ADHRIT`,
       
     },
     description: ``,
     siteUrl: `https://www.philotech.netlify.app`,
     social: {
 
-      twitter: `mezrahul`,
+      twitter: `imadhrit`,
     },
   
   },
