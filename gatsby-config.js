@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `PhiloTech Blog`,
+    title: `ADHRIT WRITES`,
     author: {
       name: `ADHRIT`,
       
