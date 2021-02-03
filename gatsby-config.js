@@ -6,7 +6,7 @@ module.exports = {
       
     },
     description: ``,
-    siteUrl: `https://www.philotech.netlify.app`,
+    siteUrl: `https://www.adhrit.netlify.app`,
     social: {
 
       twitter: `imadhrit`,
