@@ -32,7 +32,10 @@ So in love , two individuals shares patterns of their minds with eachother and m
 
 And off course, if you are not happy alone then don't try to be in a relationship with someone, because in most cases, you will become dependent on your partner for happiness which you should earn on your own by doing some work or anything in life, and learn how to care for yourself. Then most likely, you will become more suitable for a romantic relationship.
 
+Last thing: If you are a Math person then love someone who is a design or art person (off course if you like them). I mean to say, you should be a comrade with someone who have a different lens for seeing the world through. In this process , you will earn new ways of forming perspective of world and you both grow as a person. 
 
--- SOURCE : (
-        Cero, Jordan Peterson, Some Books, Self-evidents and observations around romantic relationships, Reddit
-                                            )
+<strong> Don't be the Slave , Be the Light and show the way. </strong>
+
+
+-- SOURCE : (Question to : Cero,
+Thought Structure:  Jordan Peterson, Some Books, Self-evidents and observations around romantic relationships, Reddit )
