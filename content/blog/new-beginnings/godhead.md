@@ -16,8 +16,8 @@ description: Input --> Nature/Universe/AlienLabs --> Output
 6.  Sanskrit + German + Spanish + Telgu + Japanese
 7.  Pain
 8.  Truth and Awkwardness embedded around truth.
-9.  Money + Status + Validation
-10. Sex
+9.  Money + Status + Validation + Sex
+10. Peace
 11. Fame (shitty thing)
 12. Travelling!! 
 13. Never Ending ideas in your head but seem impossible currently why? Because you pose as they are something out of logic ...
@@ -32,4 +32,4 @@ description: Input --> Nature/Universe/AlienLabs --> Output
  
 ..... Pretty interesting. 
 
-"If a thing is worth doing, it is worth doing badly."
+"I came to this world, only for the drugs."

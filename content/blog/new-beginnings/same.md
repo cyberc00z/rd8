@@ -1,7 +1,7 @@
 ---
 title: Being The Same
 date: "2020-11-30"
-description: Connecting the world is a moral slogan of anxiety companies founders. 2020 is a Online year.This typo was written in mid September of 2019.
+description: Connecting the world is a moral slogan of anxiety providing founders. 2020 is a Online year.This typo was written in mid September of 2019.
 ---
 
 
@@ -33,6 +33,4 @@ But like tasting my own spices.
 Living our life on other's memories,
 <br>
 stories or like && dislike.
-
-
-###### People follows perfect peoples or which they find perfect on internet and lives their own's life according to  their perfect's views and thoughts. But Perfect doesn't exist on this planet....
+....

@@ -6,6 +6,9 @@ description: The feeling of Life is the ultimate feeling of Death. Your are dyin
 
 
 ###### New Life
+
+![Life](third.jpg)
+
 Alright, discover the direct way of third dimension.
 
 OK you'ad wasted everything ...
@@ -13,3 +16,5 @@ Now , new you exists ...
 
 Get up and .....
 Be that Monster.
+
+

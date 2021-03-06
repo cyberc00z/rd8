@@ -87,4 +87,3 @@ Above idea of Three parallel universes can be mulitplied by many other aspects o
 :General Theory of Relativity:. According to earth's physists," multi-dimesional world's are smaller than the size of electron if they exists." So this idea of three parrallel worlds is revolt against laws of human physics and earth dynamics (may be).
 Maybe somewhere in any world, my #sexsy cuck Sundram will become a model.
 
-###### This writeup is not well-articulated and lacks some mathmatical representation. Idea of Three parallel world's came up in mind , somewhere studying trigonometry two or three years back. I will try to find out my exact papers of this writing (just got 1 paper of graphs) and attach them here. If you have any other interruptation of this abstractive idea then please hit me at my twitter(@mezrahul) inbox.

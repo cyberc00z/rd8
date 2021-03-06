@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `ADHRIT WRITES`,
+    title: `rd8 Blog`,
     author: {
-      name: `ADHRIT`,
+      name: `adhrit`,
       
     },
     description: ``,
