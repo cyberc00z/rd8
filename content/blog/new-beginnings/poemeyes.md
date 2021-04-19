@@ -1,7 +1,7 @@
 ---
 title: Am and Eyes
 date: "2020-11-17"
-description: Am and Eyes is a real personalities based poem typo dialouge delivery schema written in somewhere of early 2019 by Rahul Goswami.
+description: Am and Eyes is a real personalities based poem typo dialouge delivery schema written in somewhere of early 2019 by Adhrit.
 ---
 
 ###### Phase - +0

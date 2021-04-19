@@ -6,10 +6,10 @@ module.exports = {
       
     },
     description: ``,
-    siteUrl: `https://www.adhrit.netlify.app`,
+    siteUrl: `https://rd8.netlify.app`,
     social: {
 
-      twitter: `imadhrit`,
+      twitter: `xadhrit`,
     },
   
   },
@@ -70,7 +70,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `MezLabs`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
