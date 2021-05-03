@@ -2,14 +2,14 @@ module.exports = {
   siteMetadata: {
     title: `rd8 Blog`,
     author: {
-      name: `adhrit`,
+      name: `Adhrit`,
       
     },
     description: ``,
     siteUrl: `https://rd8.netlify.app`,
     social: {
 
-      twitter: `xadhrit`,
+      insta: `xadhrit`,
     },
   
   },
