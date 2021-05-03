@@ -26,7 +26,7 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
 
-        © {new Date().getFullYear()}, All Rights Reserved to MezLabs&trade;.
+        © {new Date().getFullYear()}, All Rights Reserved to ADHRIT.;
  
         
       </footer>
