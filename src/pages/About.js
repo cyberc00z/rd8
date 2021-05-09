@@ -1,6 +1,5 @@
 import React from "react";
 import SEO from "../components/seo";
-import Bio from "../components/bio";
 import Layout from "../components/layout";
 import {Link, graphql} from "gatsby"
 
@@ -13,7 +12,10 @@ const About = ({data, location}) => {
 		<Layout location={location} title={siteTitle}>
 		  <SEO title="About" />
 		  <Link to="/about" />
-		  <Bio />
+          <div className="about_page">
+		    <h3>My name is Adhrit. It's my online residence here at rd8 complex.   </h3>
+			
+		  </div>		  
 		</Layout>
 	)
 
