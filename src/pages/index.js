@@ -4,6 +4,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
@@ -23,8 +24,8 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
-      <Link to ="/about" />
-      <Link to="/AboutPage">About</Link> 
+      <Link ro="/about" />
+      <Link to="/About">About</Link> 
       <Bio />
       {posts.map(post => {
         const title = post.frontmatter.title || post.fields.slug
