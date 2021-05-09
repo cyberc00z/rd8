@@ -2,7 +2,7 @@ import React from "react";
 import SEO from "../components/seo";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
-
+import {Link, graphql} from "gatsby"
 
 const About = ({data, location}) => {
 
@@ -21,4 +21,13 @@ const About = ({data, location}) => {
 
 export default About;
 
+export const pageQuery = graphql`
+  query {
+	  site{
+		  siteMetadata {
+			  title
+		  }
+	  }
+  }
+`
 
