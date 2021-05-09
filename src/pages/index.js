@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-
+import "./style.css"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -25,7 +25,10 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
       <Link ro="/about" />
-      <Link to="/About">About</Link> 
+      <p className="about_heading" >
+        <Link to="/About">About</Link> 
+      </p>
+     
       <Bio />
       {posts.map(post => {
         const title = post.frontmatter.title || post.fields.slug
