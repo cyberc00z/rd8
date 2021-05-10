@@ -23,6 +23,9 @@ html {
 body {
   margin: 0;
   background: url('../content/assets/pico.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 
 /**
