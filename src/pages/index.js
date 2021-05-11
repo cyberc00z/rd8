@@ -25,9 +25,9 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
       <Link ro="/about" />
-      <p className="about_heading" >
+      /*<p className="about_heading" >
         <Link to="/About">About</Link> 
-      </p>
+      </p>*/
      
       <Bio />
       {posts.map(post => {
