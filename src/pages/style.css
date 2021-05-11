@@ -2,3 +2,10 @@
     color: cyan;
 }
 
+.not_found {
+    background-image: url('../../content/assets/404.jpeg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
