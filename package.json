@@ -1,11 +1,11 @@
 {
-  "name": "my-blog",
+  "name": "rd8",
   "private": true,
   "description": " ",
   "version": "0.1.0",
   "author": " ",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/gatsbyjs/gatsby/issues , 'https://github.com/xadhrit/' " 
   },
   "dependencies": {
     "gatsby": "^2.24.63",
