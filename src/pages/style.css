@@ -1,9 +1,4 @@
-.about_page > h3{
+.about_page > h4{
     color: cyan;
 }
 
-.about_heading > a {
-    margin-right: 20px;
-    text-decoration: none;
-
-}
