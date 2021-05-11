@@ -16,7 +16,11 @@ const About = ({data, location}) => {
           <div className="about_page">
 		    <h4>My name is Adhrit. It's my online residence here at rd8 complex.   </h4>
 		<p>
-		   
+		   1. <a href="https://github.com/xadhrit/">Github</a>
+		   <br />
+		   2. <a href="https://twitter.com/xadhrit/">Twitter</a>
+		   <br />
+		   3. <a href="https://instagram.com/xadhrit/">Instagram</a>
 		</p>
 			
 		  </div>		  
