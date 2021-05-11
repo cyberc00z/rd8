@@ -82,7 +82,10 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
-  background-color:black;
+  background-image:url('../content/assets/bg.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
   
 }
 
