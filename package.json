@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": " ",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues , 'https://github.com/xadhrit/' " 
+    "url": "https://github.com/gatsbyjs/gatsby/issues , 'https://github.com/xadhrit/' "
   },
   "dependencies": {
     "gatsby": "^2.24.63",
@@ -20,13 +20,13 @@
     "gatsby-remark-copy-linked-files": "^2.3.15",
     "gatsby-remark-images": "^3.3.33",
     "gatsby-remark-prismjs": "^3.5.13",
-    "gatsby-remark-relative-images": "^2.0.2",
+    "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-remark-responsive-iframe": "^2.4.14",
     "gatsby-remark-smartypants": "^2.3.11",
     "gatsby-source-filesystem": "^2.3.30",
     "gatsby-transformer-remark": "^2.8.35",
     "gatsby-transformer-sharp": "^2.5.15",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.23.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
