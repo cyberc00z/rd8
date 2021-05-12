@@ -113,6 +113,7 @@ h6 {
   line-height: var(--lineHeight-tight);
   letter-spacing: -0.025em;
   color:white;
+
 }
 
 h2,
@@ -122,6 +123,12 @@ h5,
 h6 {
   font-weight: var(--fontWeight-bold);
   color: var(--color-heading);
+}
+
+h2:hover{
+
+	background:white;
+	cursor:pointer;
 }
 
 h1 {
