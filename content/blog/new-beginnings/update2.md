@@ -18,6 +18,10 @@ Updated on - 09 May 2021
 3. Ride Share is still under construction , not opened once 
 
 
+Update on - 15 May 2021
+
+1. Terra initial Release
+
 
 
 
