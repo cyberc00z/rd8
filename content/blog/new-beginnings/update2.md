@@ -22,6 +22,8 @@ Update on - 15 May 2021
 
 1. Terra initial Release
 
+2. Travelling to another Tribes and owning them like, suit in robot.
+ 
 
 
 
