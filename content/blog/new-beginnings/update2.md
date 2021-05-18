@@ -18,12 +18,38 @@ Updated on - 09 May 2021
 3. Ride Share is still under construction , not opened once 
 
 
-Update on - 15 May 2021
+Updated on - 15 May 2021
 
 1. Terra initial Release
 
 2. Travelling to another Tribes and owning them like, suit in robot.
- 
+
+Updated on - 18 May 2021
+
+Not work more on terra , Pretty much done!
+Looking forward for things that are not builded yet.
+Not going after stars. 
+
+Terra : https://github.com/xadhrit/terra/
+
+
+Let's see what comes in last two weeks of May 2021.
+I am acutally thinking making a online dairy on this website where i will reflect on my every day work and other things. That will be great and making it public gives me a edge. :(
+
+If i did something like online dairy then have i need to change this website design or something. I don't think so. 
+ I'll try to do it again.
+ I have done some sort of Journaling last year for 2-3 months. 
+ Ok.
+ Here we go...
+
+Go lange is great but C is mother fucking great.
+
+
+
+
+
+
+
 
 
 
