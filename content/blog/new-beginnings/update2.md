@@ -38,7 +38,7 @@ I am acutally thinking making a online dairy on this website where i will reflec
 
 If i did something like online dairy then have i need to change this website design or something. I don't think so. 
  I'll try to do it again.
- I have done some sort of Journaling last year for 2-3 months. 
+ I have tried some sort of journaling last year for 2-3 months. 
  Ok.
  Here we go...
 
