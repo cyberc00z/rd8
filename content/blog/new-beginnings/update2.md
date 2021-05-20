@@ -44,10 +44,18 @@ If i did something like online dairy then have i need to change this website des
 
 Go lange is great but C is mother fucking great.
 
+Instead of writing daily record I will write my findings and work so it will help me keep watch over my body and mind.
 
 
+### Coming Projects
 
-
+1. HTTP Parameter Pollution
+2. Smart Web Scrapper
+3. Port Scanner with Advance Features
+4. Speedometer for Programmers
+5. Vim Clone for Windows
+6. Network Monitering Tool with Visualization
+7. Startup
 
 
 
