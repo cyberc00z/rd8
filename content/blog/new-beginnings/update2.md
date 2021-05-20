@@ -46,6 +46,7 @@ Go lange is great but C is mother fucking great.
 
 Instead of writing daily record I will write my findings and work so it will help me keep watch over my body and mind.
 
+Updated on - 20 May 2021
 
 ### Coming Projects
 
