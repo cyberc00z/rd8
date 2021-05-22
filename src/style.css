@@ -122,7 +122,8 @@ h4,
 h5,
 h6 {
   font-weight: var(--fontWeight-bold);
-  color: var(--color-heading);
+  /*color: var(--color-heading);*/
+  color: white;
 }
 
 h2:hover{
