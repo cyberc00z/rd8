@@ -51,7 +51,7 @@ Updated on - 20 May 2021
 ### Coming Projects
 
 1. HTTP Parameter Pollution
-2. Smart Web Scrapper
+2. Smart Web Scrapper [Dropped, Already many solution live here on earth.]
 3. Network Scanner with Advance Features (almost cancel)
 4. Speedometer for Programmers
 5. Vim Clone for Windows
@@ -63,9 +63,7 @@ Updated on - 20 May 2021
 
 Updated on - 21 May 2021
 
-** Network Scanner : d9scan - (https://github.com/xadhrit/d9scan)
-
-
+**Network Scanner : d9scan - (https://github.com/xadhrit/d9scan)**
 
 
 
