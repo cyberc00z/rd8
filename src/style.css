@@ -125,12 +125,12 @@ h6 {
   /*color: var(--color-heading);*/
   color: white;
 }
-
+/*
 h2:hover{
 
 	background:white;
 	cursor:pointer;
-}
+}*/
 
 h1 {
   font-weight:500;
