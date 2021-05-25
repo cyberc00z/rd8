@@ -55,8 +55,7 @@ Updated on - 20 May 2021
 3. Network Scanner with Advance Features (almost cancel)
 4. Speedometer for Programmers
 5. Vim Clone for Windows
-6. Network Monitering Tool with Visualization
-7. Startup
+6. Startup
 
 
 ### List
