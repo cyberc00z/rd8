@@ -1,7 +1,7 @@
 ---
 title: Future We Want
 date:  "2021-05-22"
-description: 
+description: Final Stage
 ---
 
 ## Future
@@ -25,6 +25,6 @@ No lecture on Future. Just the way we enter there.
 
 
 
-**Sparkling Persuation of Dreams or More than dreams**
-**Tests**
-**Contact**
+**Sparkling Persuation of Dreams | More than dreams |**
+**| Tests**
+**| Contact**
