@@ -1,12 +1,12 @@
 ---
 title: Future We Want
-date:  "2021-05-22"
+date:  "2021-05-29"
 description: Creation of the world.
 ---
 
 ## Future
 
-**Where we are heading ?:rocket:**  
+**Where are we heading ?**  
 
  *Assitance of Machine* 
   <br />
@@ -44,7 +44,7 @@ description: Creation of the world.
 
 
 
-*Sparkling Persuation of Dreams* :star:
+*Sparkling Persuation of Dreams* 
 *| More than dreams*
 *| Tests*
 *| Contact*
