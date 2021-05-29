@@ -1,7 +1,7 @@
 ---
 title: Future We Want
 date:  "2021-05-22"
-description: Final Stage
+description: Creation of the world.
 ---
 
 ## Future
@@ -19,12 +19,14 @@ No lecture on Future. Just the way we enter there.
 10. No Coal, less Carbon Dioxide
 11. Space House 
 12. More issy at orbit
-13. Saving land from Heavy Metal Posion
-14. Future is here now!!  
+13. Safety of lands from Heavy Metal Posions
+ 
 
 
 
 
-**Sparkling Persuation of Dreams | More than dreams |**
-**| Tests**
-**| Contact**
+
+*Sparkling Persuation of Dreams*
+*| More than dreams |*
+*| Tests*
+*| Contact*
