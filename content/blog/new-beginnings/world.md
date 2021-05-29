@@ -6,27 +6,45 @@ description: Creation of the world.
 
 ## Future
 
-No lecture on Future. Just the way we enter there.
+**Where we are heading ?:rocket:**  
 
-1.  Assitance of Machine
-2.  Air Taxi
-3.  Awesome Genetics Solution
-4.  No BTC , only CheapEth
-5.  MSE
-6.  Worlds in World so It will be Meta World
-8.  More Cars but Electric , best of the best in universe.
-9.  Mining the Stars
-10. No Coal, less Carbon Dioxide
-11. Space House 
-12. More issy at orbit
-13. Safety of lands from Heavy Metal Posions
- 
+ *Assitance of Machine* 
+  <br />
+  *Air Taxi* 
+  <br />
+  *Awesome Genetics Solution* 
+  <br />
+  *No BTC , only CheapEth*
+  <br />
+  *MSE*
+  <br />
+  *Worlds in World so It will be Meta World*
+  <br />
+  *More Cars but Electric , best of the best in universe.*
+  <br />
+  *Mining the Stars*
+  <br />
+  *less Coal, less Carbon Dioxide*
+  <br />
+  *Space Colonization*
+  <br />
+  *orbiting*
+  <br />
+  *Safety of lands from Heavy Metal Posions*
+  <br />
+  *Computation on Peak*
+  <br />
+  *Mood terminators*
+  <br />
+  *BCIs*
+  <br />
+ *Personal Space lions* 
 
 
 
 
 
-*Sparkling Persuation of Dreams*
-*| More than dreams |*
+*Sparkling Persuation of Dreams* :star:
+*| More than dreams*
 *| Tests*
 *| Contact*
