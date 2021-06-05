@@ -15,6 +15,9 @@ const About = ({data, location}) => {
 		  <Link to="/about" />
           <div className="about_page">
 		    <h4>My name is Adhrit. It's my online residence here at rd8 complex.   </h4>
+			<div className="personal__info">
+			<p>I am working on my ✍ , 🎍 , 🎸 and piano skills.</p>
+			</div>
 		<p>
 		   1. <a href="https://github.com/xadhrit/">Github</a>
 		   <br />
