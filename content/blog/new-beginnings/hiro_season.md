@@ -1,10 +1,12 @@
 ---
 title: Hiro - season 1
-date: "2021-06-02"
+date: "2021-06-10"
 description: Starting the Journey.
 ---
 
-**Opening**
+Date: 02-June-2021
+
+**Death**
 
 *Individual Power can change the Universe.*
 
@@ -77,6 +79,8 @@ Alxender who was looking staring at blank glass of water on doctor's table, hear
 "May I come in, Sir", a robi voice coming in from the door of room.
 <br />
 "*Come In*", replied Dr. Sinha in a loathal way.
+
+Date: 10-June-2021
 
 <!----------------------------------------------------------------------------------------------------------------!>
 
