@@ -30,8 +30,8 @@ He chuckled on Tobby's complements.
 <br />
 Dr. Sinha is a tall man with less hair on his head. He currently examining condition of Alxender's nervous system and doing his analysis if he need a neural surgery or just cronic meditiation would be enough.
 
-```
-Scan Started | Time: 12:07:20 PM | id : International Insitute for Medical Association and Invention , Spancer
+```bash
+Scan Started | Time: 12:07:20 PM | id : International Insitute for Medical Innovation, Spancer
 
 [*] "No Brain Injury found!"
 [-] found CWP
