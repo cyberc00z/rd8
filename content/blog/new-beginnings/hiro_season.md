@@ -76,7 +76,18 @@ Alxender who was looking staring at blank glass of water on doctor's table, hear
 <br />
 "May I come in, Sir", a robi voice coming in from the door of room.
 <br />
-"*Come In*", replied Dr. Sinha in a loathen way.
+"*Come In*", replied Dr. Sinha in a loathal way.
+
+<!----------------------------------------------------------------------------------------------------------------!>
+
+Under a dull dark night , Alex moving around a bumper boof town of spancer.
+He was walking without any purpose , without any desire.
+
+Pros and Cons choosing, making a decision and other thoughts which were dwelling inside his head.
+He was never afraid of death or never scared of any injury then why our hiro is just wondering in a shock when he knew that he will die or barely able to carry the burden of life. He always wants to come spancer since age of 17. To work here, being a engineer or an enterpurner. But his luck never favoured him. But hiro isn't a believer of luck. He always feels a hidden part of himself, full of life-energy , full of engineering perspective and full of winning. But he never able to switch on his hidden personality as default.
+
+<!----------------------------------------------------------------------------------------------------------------!>
+
 
 
 
