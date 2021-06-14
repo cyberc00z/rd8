@@ -19,10 +19,16 @@ Update: 14-June-2021
 
 My eye got injuried!  
 
-
 ```bash
 ok boyz let's go
 ```
+
+Update: 12:10 PM
+
+Got pain eye drop, trying to open my eyes.
+
+Decided to start all over with android studio then use react-native-firebase library.
+and create a django server with recommandation system.
 
 
 
