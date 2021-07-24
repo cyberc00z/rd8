@@ -1,15 +1,12 @@
 ---
 title: Skills
 date: "2021-07-24"
-description: Learn That.
+description: Learn that and you need it now.
 ---
 
 
 
 “Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning."  ― Mahatma Gandhi
-
-“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, I may end up really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”
-                                                                         ― Mahatma Gandhi
 
 "People rant choices; up to the ground,
 Please Play fairly.
