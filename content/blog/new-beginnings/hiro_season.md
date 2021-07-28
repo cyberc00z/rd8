@@ -260,7 +260,7 @@ But Alex was still hard. He asked her if she is feeling good or not.
 <br />
 On which she kissed him and said, "I like I'm flying."
 <br />
-Alex was trying to come with his hand and on watching his efforts, Rox asked him to sleep with her on the bed. He helped her to go to bed and She lied down Alex and herself sit aside her. She started to kiss his penis. And Alex was constantly playing with her breasts.
+Alex was trying to come with his hand and on watching his efforts, Rox asked him to sleep with her on the bed. He helped her to go to bed. Alex lied down on the bed and herself sit aside her. She started to kiss his penis. And Alex was constantly playing with her breast.
 After some minutes of blowing, Rox started to talk about their old days together on Eath1, she was going through his hair with her hand and pushing his face towards her chest.
 <br />
 So far, Rox was enjoying her first sex.
