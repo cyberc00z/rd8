@@ -240,7 +240,7 @@ But Rox is staring straight into his eyes.
 Both went silent now,
 
 Rox got down on her keens and started to giving him a blowjob. 
-Alex is mourning like a puck. After 25 minutes, he stands up and asks her to eat his breast which she quietly agreed.
+Alex is mourning like a puck. After 25 minutes, he stands up and asks her to eat her breast which she quietly agreed.
 He started biting her nipples and kissing her neck.
 She was mourning like a sweet. 
 <br />
@@ -248,7 +248,7 @@ She was mourning like a sweet.
 <br />
 Alex knew he has to go through this process,
 He went on her and try to put his penis inside her. But she started crying with the pain.
-He tried with some force to put it inside but she started to inside his skin.
+He tried with some force to put it inside but she started to inside his pinch skin.
 And Alex felt the warmth of her vagina. Blood started to come out, she was crying with pain. Alex rushed towards the kitchen and came back with cotton and a medicine box.
 <br />
 He started to clean blood around her vagina with cotton. 
