@@ -32,7 +32,9 @@ const About = ({data, location}) => {
        
        adhirt77@gmail.com 
 		</p>
-			
+	   <p>
+		<img src={require("../../content/assets/download.png")}  />
+		</p>		
 		  </div>		  
 		</Layout>
 	)
