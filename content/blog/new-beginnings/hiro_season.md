@@ -1,6 +1,6 @@
 ---
 title: Hiro - chapter 1
-date: "2021-06-10"
+date: "2021-07-28"
 description: Starting the Journey.
 ---
 
@@ -144,6 +144,204 @@ They started walking again.
 <br />
 "you  gotta place here!", said R0x, "why you came to Spancer , for me ?", added R0x.
 Alex remained slient and trying to open door of his apatment.
+
+<hr />
+Update : 28/07/21
+
+<br />
+"I need to go washroom?"  asked Rox.
+<br />
+
+"Left from the kitchen.", replied Alex.
+<br />
+
+Rox waved out her sweatshirt and threw it in front of Alex, who is just trying to stop himself from going after her.
+<br />
+
+When he came back from the medical shop, he found Rox on the couch drinking water.
+<br />
+"I want to eat a burger then we'll go for a ride," said Rox.
+<br />
+Alex just shooked his head and but he was not clear where to ride, so he asked his partner, who is eating her burger like a three days old kid.
+<br />
+"But where?", murmured Alex.
+<br />
+"What?"
+<br />
+
+"Where do we go for a ride?"
+<br />
+
+"Damn,..."
+<br />
+
+"What Damn?"
+<br />
+
+"I was talking about  a sex ride."
+<br />
+
+Alex suddenly felt like all the nervousness of his surrounding.
+It has been a long time when he did sex. He tries to eat his burger but he can't he found himself so numb. 
+<br />
+
+In 2220, the first time he meets Rox.
+He was fond of her paradoxical thoughts. Both, after some months of chatting, found each other a good match. They started sharing emotions and everything began.
+One day, found that his girlfriend has left for Spencer to be an Animator.
+He tried to contact her via Instagram and e-mail but never got any reply.
+He started working in Mines and left Earth to founding something out of his life. He landed on Moon, started working as a mining intern in Expedition.
+During his service days, he found one girl attractive for dating.
+But when he tries to be friends with her, she denied him and said, 
+<br />
+
+"I am here for learning and completing my internship."
+<br />
+
+But Alex didn't give up and after some days of trying, he got his first date. Both Started dating each other, Alex felt like he found his soul mate. 
+Mia (his girlfriend), was an interesting and industrious person.
+And every day after completing her classes, Mia went to Alex's place where he used to come at night after a day of mining.
+<br />
+
+Alex is feeling the warmth on his pants and thinking about Mia's lovely breast. He got hard.
+<br />
+
+"What are you thinking?"
+<br />
+
+It just crushed his dream.
+<br />
+
+When Alex came out of his imagination of Mia. He found Rox's hand inside his pants. Of course, he getting hard because of the constant touch of her hand and his memories of Mia.
+<br />
+"Nothing", answered Alex.
+<br />
+"I want to do it right now, please", said ROX.
+<br />
+"Hmm.., you didn't get sex here?", asked Alex in surprise.
+<br />
+"umm.., no Nah, I tried to sell my virginity but not got any decent deal.  and when I tried to befriend a male, he left me at that brothel for his fucking commission."
+<br />
+"Lol, what a waste?.. but why you broke up with me and came here. And you never tried to reply to my messages, why?"
+<br />
+"I had already told you about my ambition and I didn't want to be a housewife of someone. But anyway I am still a virgin and 2 years older than you. And my hand is on your penis right now."
+<br />
+"Ok."
+<br />
+Alex stands up and starts removing his pants and shirt. In 2 minutes, He came out of the shower and found Rox naked lying down on a couch in front of his play station.
+Both sit together on the couch.
+<br />
+Alex now unable to control his mind and started touching Rox's butt.
+But Rox is staring straight into his eyes.
+<br />
+"Will marry me?"
+<br />
+"I don't want to be a dog of someone."
+<br />
+Both went silent now,
+
+Rox got down on her keens and started to giving him a blowjob. 
+Alex is mourning like a puck. After 25 minutes, he stands up and asks her to eat his breast which she quietly agreed.
+He started biting her nipples and kissing her neck.
+She was mourning like a sweet. 
+<br />
+"I can't stand it now "
+<br />
+Alex knew he has to go through this process,
+He went on her and try to put his penis inside her. But she started crying with the pain.
+He tried with some force to put it inside but she started to inside his skin.
+And Alex felt the warmth of her vagina. Blood started to come out, she was crying with pain. Alex rushed towards the kitchen and came back with cotton and a medicine box.
+<br />
+He started to clean blood around her vagina with cotton. 
+After cleaning up, he again started to put inside her. She was shouting in little pain and trying to pull him back. But started to going fast and slow.
+With some little pace, Rox started to enjoy, he was constantly asking her if she was feeling good.
+<br />
+Within 20 minutes, Rox came. Her vagina started to eradicate.
+But Alex was still hard. He asked her if she is feeling good or not.
+<br />
+On which she kissed him and said, "I like I'm flying."
+<br />
+Alex was trying to come with his hand and on watching his efforts, Rox asked him to sleep with her on the bed. He helped her to go to bed and She lied down Alex and herself sit aside her. She started to kiss his penis. And Alex was constantly playing with her breasts.
+After some minutes of blowing, Rox started to talk about their old days together on Eath1, she was going through his hair with her hand and pushing his face towards her chest.
+<br />
+So far, Rox was enjoying her first sex.
+At 3:00 am, Rox fell asleep on the chest of Alex.
+Alex is looking outside of the window at the sky. Cold air is coming in.
+The sky is trying to communicate with the land of spencer. Alex didn't come. Rox tried her best to make him came. She gave up after 2 hours of constant blowjobs and handjobs. Alex stopped her after watching her sleepy paradoxical eyes. 
+Alex is constantly blinking his eyes and slapping his penis no Rox's butt, the sound of collision between penis and butt is a filling room with bloomy memories of the process of greatest satisfaction of mankind.
+<br />
+
+Rox, who had wrapped her hand around Alex's chest, enjoying sleep with the sound of a slap. 
+<br />
+"I'll die in some days.", whispered Alex to Rox.
+<br />
+Rox hummed in the sleep.
+<br />
+Alex remained silent now.
+The night went and the day came.
+<br />
+Alex didn't sleep for the whole night.
+"You was saying something?", asked Rox.
+<br />
+"About what?"
+<br />
+"like some die and lungs"
+<br />
+"Oh yeah"
+<br />
+"what"
+<br />
+"I am diagnosed with black lungs. The doctor warned me for death."
+<br />
+"It is the worst joke I ever heard", said Rox, who caressing Alex's penis.
+<br />
+"Not kidding."
+<br />
+"Anyway, you should try to cough with deep pressure on lungs, if you wanted to look like a serious dying patient, I am going for a shower."
+<br />
+Rox's statement left Alex with a simple logical argument. He was convinced that he has to go doctor again.
+<br />
+"I think, we should do the new blood test only", said Dr. Jim
+<br />
+"Only blood why?"
+<br />
+"Because it simply enough to out the general problem and a CT scan would be perfect for brain tumor?"
+<br />
+"Alexnder, Come inside", shouted the dangy of Doctor's Clinic.
+<br />
+Alex came inside and sit on the chair in front of the doctor's table.
+<br />
+"You aren't suffering from any serious disease, it's maybe just some depression and anxiety.".
+<br />
+"But Doctor Sinha said",  he proposed all the reports certified by Dr. Sinha.
+<br />
+After going through some 2 pages of the report, Dr. Jim started laughing again.
+<br />
+"Poor kid, I think Dr. Sinha is mad and his doggies are running on old software."
+<br />
+
+He gives a report of some Alasender Clarke. Is that you or it is a spelling mistake. 
+<br />
+
+"Hmm... I think I need to update the software of my machines, I am sorry Alexender."
+<br />
+
+"My machine was confused with some name profiles and I came out with some old report of 56 years old man who was the same weight as yours. It was whole because of confusion."
+<br />
+
+"What a fool am I", thinking Alex in the head, "I shouldn't trust any doctor here and go to xmm0s asap for work."
+<br />
+
+He opened the door of his apartment and found out that Mrs. Rox is lying down on the couch in just underwear and watching fucking Naruto.
+<br />
+
+Seen Close I am bored!
+
+
+
+
+
+ 
+
 
 
 
