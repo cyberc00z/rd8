@@ -13,7 +13,7 @@ Please Play fairly.
 
 One of the serious problems with me, I expect others to be hundred percent authentic with me while playing the game. But I have to understand, these people are coming out of schools like MIT, Standford, Cambridge, Columbia, Harvard, Yale, etc. If they don't have enough skills in the field they will simply be got hired because of their School names.
 This makes me sick.
-Perhaps, Change make comes from nowhere but it's time to win over nature. Not over people. The time where people have power over people has gone. 
+Although, Changemaker comes from nowhere but it's time to win over nature. Not over people. The time where people have power over people has gone. 
 Blockchain is the first step in this direction, where only skills win.
 But do I have enough skills to win over nature. 
 "Nope", then how are you gonna change this?
