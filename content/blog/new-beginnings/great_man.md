@@ -55,7 +55,7 @@ Nothing more to say.
 "Innovation distinguishes between a leader and a follower."
 
 Another Rebel sparkled path for everyone who wants to discover something extraordinary.
-Not talk too much, come on and follow my league. Dropped out of college at age of 18, start doing jobs after his 19th birthday, founded Apple after the age of 22. With time, his passion and love for his work grew mature enough that was able to inspire every upcoming generation.
+Not talk too much, come on and follow my league. Dropped out of college at age of 18, start doing jobs after his 19th birthday, founded Apple after the age of 22. With time, his passion and love for his work grew mature enough that was able to inspire every upcoming generation of entrepreneurs and innovators.
 
 <hr />
 
