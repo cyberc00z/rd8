@@ -23,4 +23,18 @@ Because I refused to prepare for any government services job. Why should I parti
 It's hurt my mind, my confidence, and my values. Why these people don't think in terms of work, value, good for society and welfare of mankind.
 <br />
 We all are animals, fucking status-seeking junkies who live on the planet of earth. 
- 
+<br />
+"Who are you?",
+<br />
+"Who are you?".
+<br /> 
+After some seconds, I was staring into the darkness and chaos, shouted again, "Who are you?". No reply came back.
+<br />
+Life often hits you hard, knockout out you where nobody cares about you and thinks of you as life long loser. You feel left out, you remain unnoticed while the least talented person in your eyes gets the reward.
+<br />
+Then you often ask yourself, "Who are you?".
+<br />
+Your Definition of truth, the prime value of your life startling to mingle around your expenses and forces you to live on pizza and welfare. For your love and meals of your kids, you'll start tinkering around ideas that irritated you in past. You left those ideas or things in back in days because they are dilution of your personality. Now those guttery things are in front of you and asked you, "Who are you?" 
+<br />
+I don't have three stories about lifelike Steve Jobs.
+But I am willing to work hard to make my apple.
