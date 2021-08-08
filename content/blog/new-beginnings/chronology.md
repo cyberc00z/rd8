@@ -38,3 +38,36 @@ Your Definition of truth, the prime value of your life startling to mingle aroun
 <br />
 I don't have three stories about lifelike Steve Jobs.
 But I am willing to work hard to make my apple.
+<br />
+
+Update : 08-08-2021
+<br />
+Still nothing changing , same feeling , same anxiety and same days. The taut of beign useless and can't do anything everyday.
+Stop complaning kid and start doing shit. Oh really , you old motherfucker. You are not going to win like this.
+<br />
+People speaking of great leaders and engineers and it's so shamefull of me that I am still failing in everything.
+<br />
+I left alone and behind. People won.
+<br />
+Why am I failing in things those I chose for myself? Nobody reply to my emails and other shits. Everybody just going ahead and I lost in this wave.
+<br />
+Over the past 3 years, I have seen many github accounts, Why these people. Because they accepted things simply as they were. Or I am just weak. Not enough intelligent or something god loves me more than others.
+Please give me a chance, please help me , please let me nameshake, please , please. 
+<br />
+I am burden on my parents, I overgrown moron who is just shit .
+I can't write it anymore. I have to do something with this feeling. Everyday making me more furstated with myself, this self hate is just consuming my body. And I became a skeleton. 
+<br />
+I am not able to purchase a single peice of cloth for myself. I have written over 1000 emails to professors and enturpurners but most of them didn't reply. Job vaccancies asked you for Degree which I don't have. Neither Degree nor money or skills to earn money(if not have money). 
+<br /> 
+Yes! this is losing, And it's a life of losing.
+Since Childhood , I was bright in studies , I did everything what i expected to do yet only my sins are giving me returns.
+I always thought my life would like a great engineer or super-hero or scientist but nothing came along. Three years in a row. My best friend laughed at my face. Everybody left me. 
+<br />
+I often thought why some people have so linear path and  they succeed in life. I am not denying that fact that they put hard work every day. So also I did. But they succeed, Some people got very lucky. Like my cousion.
+Some people got like elon musk mind. They are just winners. Some are like me, who just lose. Even I have read book related to growth psycology. Even practicing, book's rule does not change my mindset in one year.
+Because money didn't came. I am not able find a bug in website. I don't so called hacker found them now-a-days but finding bug like IDOR , XSS and open redirect feels so boring. 
+<br />
+Neither I am able to concentrate on programming nor on reading anything.
+I rejected every relationship and other pleasures most of my life with the exception of 2018 which was a year of sins, i fucked up every where. BharatX startup rejected me after interview because they thought I don't have clarity in speaking and ideas. Or my project are not good enough. Advised me to learn from courseara which is good.
+<br />
+I want to go outside and win. 
