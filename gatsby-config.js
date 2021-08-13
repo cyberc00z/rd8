@@ -3,12 +3,10 @@ module.exports = {
     title: `rd8 Blog`,
     author: {
       name: `Adhrit`,
-      
     },
     description: ``,
     siteUrl: `https://rd8.netlify.app`,
     social: {
-
       insta: `xadhrit`,
     },
   
