@@ -27,9 +27,9 @@ const About = ({data, location}) => {
            <br />
 		   4. <a>adhirt77@gmail.com</a>
        </p>
-	   <p>
+	   {/* <p>
 		<img src={require("../../content/assets/download.png")} height={200} width={500} />
-		</p>		
+		</p>		 */}
 		  </div>		  
 		</Layout>
 	)
