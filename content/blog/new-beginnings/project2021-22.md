@@ -22,32 +22,19 @@ description: List of projects which I have to complete in 2021-22 session
 **Paper Writings Projects**
 
 *.  1 Paper on Personality*
-
 <br />
-
 *.  1 paper on Compression*
-
 <br /> 
-
 *.  2 Papers on Sustainable Energy*
-
 <br />
-
 *.  2 Papers on Holographs and hardware*
-
 <br />
-
 *.  2 Papers on Vision of Future*
 
 
 **Reverse Engineering Projects**
 *.  Reverse Engineer HIV* 
-
 <br />
-
 *. Reverse Engineer Cell*
-
 <br />
-
 *. Reverse Engineer Protine*
-   
