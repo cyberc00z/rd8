@@ -19,9 +19,10 @@ description: List of projects which I have to complete in 2021-22 session
 <br />
 *.  Personality Indicator on the top of Browsing History*
 
-**Paper Writings Projects**
 
-*.  1 Paper on Personality*
+**Writings Projects**
+
+*.  1 Paper on Deception*[ Completed on 2021-08-28]
 <br />
 *.  1 paper on Compression*
 <br /> 
