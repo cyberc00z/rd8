@@ -7,7 +7,7 @@ description: Winning's bout me!
 
 # ***Winning***
 
-                                                                                     ***[  I  ]***
+[  I  ]
 
 ***Race fast in your mind,  how you want brain and success bind.***
 
@@ -19,9 +19,9 @@ description: Winning's bout me!
 
 ***Why I departed from world***
 
-***What I want to be, is the question of novelty.***
+***What I want to be, is the question of novelty***  
 
-                                                                                       ***[  II  ]***
+[  II  ]
 
 ***Keep priorities first listen,***
 
@@ -41,7 +41,7 @@ description: Winning's bout me!
 
 ***we only desire for winning.***
 
-                                                                                        ***[   III  ]***
+[   III  ]
 
 ***What is winning, and why you want to win?***
 
@@ -59,9 +59,7 @@ description: Winning's bout me!
 
 ***Winning***
 
-                                                                                                                                                                               
-
-                                                                                    ***[ IV ]*** 
+[ IV ] 
 
 ***For all the mornings , I’d spent on cycles***
 
@@ -91,7 +89,7 @@ description: Winning's bout me!
 
 ***Winning***
 
-                                                                                        ***[  V  ]***
+[  V  ]
 
 ***Umm white page, makes me feel like kept in a cage..***
 
@@ -139,7 +137,7 @@ description: Winning's bout me!
 
 ***Winning***
 
-                                                                               ***[ VI ]***
+[ VI ]
 
 ***I was 19 , when my parents left me,***
 
@@ -167,7 +165,7 @@ description: Winning's bout me!
 
 ***Winning***
 
-                                                                         ***[ VII ]***
+ VII ]
 
 ***Demons startled to slave me***
 
