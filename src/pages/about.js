@@ -15,6 +15,8 @@ const About = ({data, location}) => {
 		  <Link to="/about" />
           <div className="about_page">
 		    <h4>My name is Adhrit. It's my online residence here at rd8 complex.  </h4>
+			<br />
+			<h4>I write poems and tell fortunes. </h4>
 			<div className="personal__info">
 			<p> Contact :  </p>
 			</div>
@@ -23,7 +25,7 @@ const About = ({data, location}) => {
 		   <br />
 		   2. <a href="https://twitter.com/xadhrit/">Twitter</a>
 		   <br />
-		   3. <a href="https://instagram.com/xadhrit/">Instagram</a>
+		   3. <a href="https://instagram.com/adhrit.exe/">Instagram</a>
            <br />
 		   4. <a>adhirt77@gmail.com</a>
        </p>
