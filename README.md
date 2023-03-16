@@ -1,4 +1,4 @@
-## rd8 Blog Template : 
+# rd8 Blog Template
 
 rd8 stands some where between 1980's to 2180's
 
@@ -6,6 +6,4 @@ rd8 stands some where between 1980's to 2180's
    <img src="./content/assets/ss.png" />
 </p>
 
-
-Live at : https://rd8.netlify.app
-
+Live at : <https://rd8.netlify.app>
