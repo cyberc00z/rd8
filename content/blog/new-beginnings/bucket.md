@@ -6,6 +6,10 @@ description: Wandering of two years coming to the END. I am searching for  the G
 
 # Notes 
 
+<p align="center">
+<img src="https://th.bing.com/th/id/OIP.xHDAwUVDcFDTzm5_9zjfmAHaFj?pid=ImgDet&rs=1" />
+</p>
+
 It is incredibly humbling for me to witness how the ideas I unconsciously logged years ago or envisioned in stories are now becoming realities in today's world.
 <br />
 I used to daydream about owning a car that could change its color at the push of a button, and now BMW is making it happen using electronic ink technology.
@@ -19,4 +23,4 @@ Lately, I've found myself evading job interviews and realizing that I don't want
 This year, I am determined to try out various endeavors, to delve into a multitude of experiences and ideas. The weight of these thoughts has become suffocating, and I fear living with regret if I don't manifest them in the practical world. It would be deeply unfair and dishonest to myself.
 <br /> 
 
-Seriously, I am coming back to technology after two years of gap. So A LOT to cover on. Hail LLaMa
+Seriously, I am coming back to technology after two years of gap. So A LOT to cover up. Hail LLaMa
