@@ -14,7 +14,7 @@ const About = ({data, location}) => {
 		  <SEO title="About" />
 		  <Link to="/about" />
           <div className="about_page">
-		    <h4>My name is Adhrit. It's my online residence here at rd8 complex.  </h4>
+		    <h4>My name is Adhrit. It's my online residence here at rd8 complex. I aspire to live on looner city, Moon or Build rd8 complex on Mars base. I am 20 and single.  </h4>
 			<br />
 			<h4>I write poems and tell fortunes. </h4>
 			<div className="personal__info">
@@ -25,9 +25,11 @@ const About = ({data, location}) => {
 		   <br />
 		   2. <a href="https://twitter.com/xadhrit/">Twitter</a>
 		   <br />
-		   3. <a href="https://instagram.com/adhrit.exe/">Instagram</a>
+		   3. <a href="https://instagram.com/xadhrit/">Instagram</a>
            <br />
-		   4. <a>adhirt77@gmail.com</a>
+		   4. <a href="https://threads.net/@xadhrit" >Threads</a>
+		   <br />
+		   5. <a>adhirt77@gmail.com</a>
        </p>
 	   {/* <p>
 		<img src={require("../../content/assets/download.png")} height={200} width={500} />
