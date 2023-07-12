@@ -14,7 +14,7 @@ const About = ({data, location}) => {
 		  <SEO title="About" />
 		  <Link to="/about" />
           <div className="about_page">
-		    <h4>My name is Adhrit. It's my online residence here at rd8 complex. I aspire to live on looner city, Moon or Build rd8 complex on Mars base. I am 20 and single.  </h4>
+		    <h4>My name is Adhrit. It's my online residence here at rd8 complex. I aspire to live on lunar city, Moon or Build rd8 complex on Mars base. I am 20 and single.  </h4>
 			<br />
 			<h4>I write poems and tell fortunes. </h4>
 			<div className="personal__info">

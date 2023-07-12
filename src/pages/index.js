@@ -1,20 +1,12 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { Link, graphql } from "gatsby";
-import { useNavigate } from 'react-router-dom'
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import ReactGA from 'react-ga';
-
-ReactGA.initialize('G-PHD2G20BJ9');
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
-
-  const history = useNavigate();
-
-  
 
   if (posts.length === 0) {
     return (
@@ -28,9 +20,6 @@ const BlogIndex = ({ data, location }) => {
     )
   }
 
-  useEffect(() => {
-    ReactGA.pageview(window.location.pathname + window.location.search);
-  },[history]);
 
   return (
     <Layout location={location} title={siteTitle}>
