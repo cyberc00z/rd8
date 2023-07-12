@@ -72,7 +72,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { frontmatter: {date: DESC }}) {
       nodes {
         excerpt
         fields {
@@ -82,7 +82,6 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
-          
         }
       }
     }

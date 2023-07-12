@@ -5,10 +5,10 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const { previous, next } = pageContext
+const BlogPostTemplate = ({ data: { previous,next,site, markdownRemark: post }, location, }) => {
+  
+  
+  const siteTitle = site.siteMetadata?.title || `Title`
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -64,24 +64,51 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   )
 }
 
-export default BlogPostTemplate
+export const Head = ({ data: { markdownRemark: post } }) => {
+  return (
+    <SEO title={post.frontmatter.title} 
+     description={post.frontmatter.description || post.excerpt }
+    />
+  )
+}
+
+export default BlogPostTemplate;
 
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
+  query BlogPostBySlug(
+    $id: String!
+    $previousPostId: String
+    $nextPostId: String
+    ) {
     site {
       siteMetadata {
         title
       }
     }
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    markdownRemark( id : { eq: $id }) {
       id
       excerpt(pruneLength: 160)
       html
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        description
-        
+        description        
+      }
+    }
+    previous: markdownRemark(id: { eq: $previousPostId }) {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+      }
+    }
+    next: markdownRemark(id: {eq: $nextPostId}) {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
       }
     }
   }
