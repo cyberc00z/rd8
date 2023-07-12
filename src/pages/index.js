@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Link, graphql } from "gatsby";
-import {useHistory} from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
