@@ -1,32 +1,34 @@
+/**
+ * Implement Gatsby's Node APIs in this file.
+ *
+ * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/
+ */
+
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
+// Define the template for blog post
+const blogPost = path.resolve(`./src/templates/blog-post.js`)
+
+/**
+ * @type {import('gatsby').GatsbyNode['createPages']}
+ */
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
-  // Define a template for blog post
-  const blogPost = path.resolve(`./src/templates/blog-post.js`)
-
   // Get all markdown blog posts sorted by date
-  const result = await graphql(
-    `
-      {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-          limit: 1000
-        ) {
-          nodes {
-            fields {
-              slug
-            }
-            frontmatter {
-              title
-            }
+  const result = await graphql(`
+    {
+      allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
+        nodes {
+          id
+          fields {
+            slug
           }
         }
       }
-    `
-  )
+    }
+  `)
 
   if (result.errors) {
     reporter.panicOnBuild(
@@ -44,22 +46,25 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   if (posts.length > 0) {
     posts.forEach((post, index) => {
-      const previous = index === posts.length - 1 ? null : posts[index + 1]
-      const next = index === 0 ? null : posts[index - 1]
+      const previousPostId = index === 0 ? null : posts[index - 1].id
+      const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
 
       createPage({
         path: post.fields.slug,
         component: blogPost,
         context: {
-          slug: post.fields.slug,
-          previous,
-          next,
+          id: post.id,
+          previousPostId,
+          nextPostId,
         },
       })
     })
   }
 }
 
+/**
+ * @type {import('gatsby').GatsbyNode['onCreateNode']}
+ */
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
@@ -74,6 +79,9 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   }
 }
 
+/**
+ * @type {import('gatsby').GatsbyNode['createSchemaCustomization']}
+ */
 exports.createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions
 
