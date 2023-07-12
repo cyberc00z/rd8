@@ -8,11 +8,7 @@
    font-family: 'baloo 2';
 }
 
-/*
-.not_found {
-    background-image: url('../../content/assets/404.jpeg');
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}*/
+.mail_banner {
+    background-color: burlywood;
+    color: black;
+}   

@@ -4,9 +4,12 @@ import Layout from "../components/layout";
 import {Link, graphql} from "gatsby"
 import './style.css';
 
+
 const About = ({data, location}) => {
 
 	const siteTitle = data.site.siteMetadata?.title || `Title`
+
+	
 
 	return (
 	
@@ -14,12 +17,14 @@ const About = ({data, location}) => {
 		  <SEO title="About" />
 		  <Link to="/about" />
           <div className="about_page">
-		    <h4>My name is Adhrit. It's my online residence here at rd8 complex. I aspire to live on lunar city, Moon or Build rd8 complex on Mars base. I am 20 and single.  </h4>
+		    <h4>My name is Adhrit. It's my online residence here at rd8 complex. I aspire to live on lunar city, Moon or Build rd8 complex on Mars base. I'm 20 & single.  </h4>
 			<br />
 			<h4>I write poems and tell fortunes. </h4>
+			<p className="mail_banner"> Mail me if you want to assign me some work :  <a href="Mailto:">adhirt77@gmail.com</a> </p>
 			<div className="personal__info">
 			<p> Contact :  </p>
 			</div>
+			
 		<p>
 		   1. <a href="https://github.com/xadhrit/">Github</a>
 		   <br />
@@ -29,7 +34,6 @@ const About = ({data, location}) => {
            <br />
 		   4. <a href="https://threads.net/@xadhrit" >Threads</a>
 		   <br />
-		   5. <a>adhirt77@gmail.com</a>
        </p>
 	   {/* <p>
 		<img src={require("../../content/assets/download.png")} height={200} width={500} />

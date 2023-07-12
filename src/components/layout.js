@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link } from "gatsby";
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -26,9 +26,7 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
 
-        © {new Date().getFullYear()}, All Rights Reserved to ADHRIT.;
- 
-        
+        © {new Date().getFullYear()}, All Rights Reserved to ADHRIT;        
       </footer>
     </div>
   )
