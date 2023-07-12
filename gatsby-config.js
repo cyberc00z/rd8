@@ -107,7 +107,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingIds: ["G-PHD2G20BJ9"]
+        trackingIds: ["G-PHD2G20BJ9"],
+        pluginConfig : {
+          head: false,
+          // setting this parameter in the head instead of the body
+          respectDNT: true, 
+          origin: "https://rd8.netlify.app",
+          delayOnRouteUpdate: 0,
+        }
       },
     },
     {
