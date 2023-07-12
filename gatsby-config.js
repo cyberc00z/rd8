@@ -109,10 +109,8 @@ module.exports = {
       options: {
         trackingIds: ["G-PHD2G20BJ9"],
         pluginConfig : {
-          head: false,
+          head: true,
           // setting this parameter in the head instead of the body
-          respectDNT: true, 
-          origin: "https://rd8.netlify.app",
           delayOnRouteUpdate: 0,
         }
       },
