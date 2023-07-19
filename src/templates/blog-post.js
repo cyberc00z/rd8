@@ -5,12 +5,21 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+// trying to add comment section
+import { DiscussionEmbed } from "disqus-react";
+
 const BlogPostTemplate = ({ data: { previous,next,site, markdownRemark: post }, location, }) => {
   
   
   const siteTitle = site.siteMetadata?.title || `Title`
+  
+  const disqusConfig = {
+    shortname: `rd8`,
+    config: {identifier: site.siteMetadata?.title},
+  }
 
   return (
+    <>
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
@@ -60,7 +69,12 @@ const BlogPostTemplate = ({ data: { previous,next,site, markdownRemark: post }, 
           </li>
         </ul>
       </nav>
+    <DiscussionEmbed 
+       {...disqusConfig}
+    />
     </Layout>
+     
+    </>
   )
 }
 

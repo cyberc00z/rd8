@@ -8,6 +8,8 @@
     "url": "https://github.com/cyberc00ze/rd8/issues , 'https://github.com/xadhrit/' "
   },
   "dependencies": {
+    "disqus-react": "^1.1.5",
+    "dotenv": "^16.3.1",
     "gatsby": "^5.11.0",
     "gatsby-plugin-feed": "^5.11.0",
     "gatsby-plugin-google-analytics": "^5.11.0",
