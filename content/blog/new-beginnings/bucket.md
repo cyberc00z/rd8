@@ -6,9 +6,11 @@ description: Wandering of two years coming to the END. I am searching for  the G
 
 # Notes 
 
+
 <p align="center">
-<img src="https://th.bing.com/th/id/OIP.xHDAwUVDcFDTzm5_9zjfmAHaFj?pid=ImgDet&rs=1" />
+<img src="https://th.bing.com/th/id/OIP.xHDAwUVDcFDTzm5_9zjfmAHaFj?pid=ImgDet&rs=1" max-width="100%" max-height="100%"  object-fit="contain" />
 </p>
+
 
 It is incredibly humbling for me to witness how the ideas I unconsciously logged years ago or envisioned in stories are now becoming realities in today's world.
 <br />
