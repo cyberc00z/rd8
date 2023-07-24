@@ -1,14 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
 
 .about_page > h4{
-    color: cyan
+    color: rgb(247, 224, 182);
 }
 .personal__info  > p{
    color: white;
    font-family: 'baloo 2';
 }
 
+p > a {
+    color: aliceblue;
+}
+
 .mail_banner {
     background-color: burlywood;
     color: black;
-}   
+}
