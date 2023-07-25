@@ -26,14 +26,10 @@ const About = ({data, location}) => {
 		<p>
 		   1. <a href="https://github.com/xadhrit/">Github</a>
 		   <br />
-		   2. <a href="https://twitter.com/xadhrit/">Twitter</a>
+		   2. <a href="https://x.com/xadhrit/">X</a>
 		   <br />
 		   3. <a href="https://instagram.com/xadhrit/">Instagram</a>
            <br />
-           4. <a rel="me" href="https://mastodon.social/@xadhrit">Mastodon</a>
-		   <br />   
-		   5. <a href="https://threads.net/@xadhrit" >Threads</a>
-		   <br />
        </p>
 	   {/* <p>
 		<img src={require("../../content/assets/download.png")} height={200} width={500} />
