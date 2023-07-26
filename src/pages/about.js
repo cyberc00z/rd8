@@ -18,7 +18,7 @@ const About = ({data, location}) => {
 		    <h4>My name is Adhrit. It's my online residence here at rd8 complex. I aspire to live on lunar city, Moon or Build rd8 complex on Mars base. I'm 20 and want to leave asap.</h4>
 			<br />
 			<h4>I write poems and tell fortunes. </h4>
-			<p className="mail_banner"> Mail me if you want to assign me some work :  connect me on telemgram</p>
+			<p className="mail_banner"> Mail me if you want to assign me some work :  connect me on telemgram or write mail on adhirt77@gmail.com</p>
 			<div className="personal__info">
 			<p> Contact :  </p>
 			</div>
@@ -30,7 +30,7 @@ const About = ({data, location}) => {
 		   <br />
 		   3. <a href="https://instagram.com/xadhrit/">Instagram</a>
            <br />
-		   4. <a href="https://t.me/attackox">Telegram</a>
+		   4. <a href="https://t.me/plextele">Telegram</a>
        </p>
 	   {/* <p>
 		<img src={require("../../content/assets/download.png")} height={200} width={500} />
