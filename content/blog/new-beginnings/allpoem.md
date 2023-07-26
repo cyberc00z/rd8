@@ -1,10 +1,10 @@
 ---
 title: All poems in One file
-date: "2023-07-26"
+date: "2022-07-26"
 description: Immortality is the greatest thing ever.
 ---
 
-# ***Age-20**
+# ***Age-20***
 
 
 ***Yu'all lost in the city of sci-blocks***
@@ -74,8 +74,6 @@ I am robotman with sting penis in size
 <br />
 Clouds will come and give me place
 i guess messiah has arrived!!
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7EDlm7g0pTfkKC6LLalxTh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 well said!!
@@ -174,7 +172,6 @@ End!!
 I just kept imaging, we walking in Boston streets with cold deadly breeze.
 The sparkling sunshine, decorating lavendar petals lying on roadside puddles and if somebody noticed us standing there, we would be the freaks just roaming there.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2CTOa3CEBts3p1NyTVLTXU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 # ***Transformation***
