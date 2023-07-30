@@ -10,14 +10,15 @@ const About = ({data, location}) => {
 	const siteTitle = data.site.siteMetadata?.title || `Title`;
 	
 	return (
-	
 		<Layout location={location} title={siteTitle}>
 		  <SEO title="About" />
 		  <Link to="/about" />
           <div className="about_page">
 		    <h4>My name is Adhrit. It's my online residence here at rd8 complex. I aspire to live on lunar city, Moon or Build rd8 complex on Mars base. I'm 20 and want to leave asap.</h4>
 			<br />
+			<br />
 			<h4>I write poems and tell fortunes. </h4>
+			<br />
 			<p className="mail_banner"> Mail me if you want to assign me some work :  connect me on telegram or write mail on <p mailto="adhirt77@gmail.com">adhirt77 at gmail dot com</p></p>
 			<div className="personal__info">
 			<p> Contact :  </p>
@@ -49,4 +50,3 @@ export const pageQuery = graphql`
 	  }
   }
 `
-
