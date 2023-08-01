@@ -13,9 +13,10 @@ const BlogPostTemplate = ({ data: { previous,next,site, markdownRemark: post }, 
   
   const siteTitle = site.siteMetadata?.title || `Title`
   
+
   const disqusConfig = {
     shortname: `rd8`,
-    config: {identifier: site.siteMetadata?.title},
+    config: {identifier:siteTitle },
   }
 
   return (
