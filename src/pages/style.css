@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
 
 .about_page > h4{
-    color: rgb(247, 224, 182);
+    color: rgb(248, 246, 242);
 }
 .personal__info  > p{
-   color: white;
+   color: rgb(255, 252, 252);
    font-family: 'baloo 2';
 }
 
@@ -13,6 +13,6 @@ p > a {
 }
 
 .mail_banner {
-    background-color: burlywood;
-    color: black;
+    background-color: rgba(255, 253, 249,0.4);
+    color: rgb(252, 252, 252);
 }

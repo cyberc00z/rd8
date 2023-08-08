@@ -19,7 +19,7 @@ const About = ({data, location}) => {
 			<br />
 			<h4>I write poems and tell fortunes. </h4>
 			<br />
-			<p className="mail_banner"> Mail me if you want to assign me some work :  connect me on telegram or write mail on <p mailto="adhirt77@gmail.com">adhirt77 at gmail dot com</p></p>
+			<p className="mail_banner"> Mail me if you want to assign me some work :  connect me on telegram or write mail on  : <p mailto="adhirt77@gmail.com">adhirt77@gmail.com</p></p>
 			<div className="personal__info">
 			<p> Contact :  </p>
 			</div>
@@ -27,7 +27,7 @@ const About = ({data, location}) => {
 		<p>
 		   1. <a href="https://github.com/xadhrit/">Github</a>
 		   <br />
-		   2. <a href="https://x.com/xadhrit/">X</a>
+		   2. <a href="https://x.com/xadhrit/">Twitter</a>
 		   <br />
 		   3. <a href="https://instagram.com/xadhrit/">Instagram</a>
            <br />

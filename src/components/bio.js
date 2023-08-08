@@ -52,7 +52,7 @@ const Bio = () => {
           {` `}
           <br />
           <a style={{ backgroundColor:"Gray", color:"black" }} href="/about">
-           	About -- Hire Me!
+           	About !
           </a>
         </p>
       )}
