@@ -51,7 +51,7 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <br />
-          <a style={{ backgroundColor:"Gray", color:"black" }} href="/about">
+          <a style={{ backgroundColor:"Gray", color:"black" }} href="/">
            	About !
           </a>
         </p>
