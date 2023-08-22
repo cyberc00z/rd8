@@ -5,6 +5,7 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 
 const Blog = ({ data, location }) => {
+  
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
@@ -20,7 +21,6 @@ const Blog = ({ data, location }) => {
       </Layout>
     )
   }
-
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -45,19 +45,14 @@ const Blog = ({ data, location }) => {
               <small>{post.frontmatter.date}</small>
             </header>
             <section>
-            
               <p
                 dangerouslySetInnerHTML={{
                   __html: post.frontmatter.description || post.excerpt,
                 }}
                 itemProp="description"
-                
               />
-             
             </section>
-           
           </article>
-        
         )
       })}
     </Layout>
