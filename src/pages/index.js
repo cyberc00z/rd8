@@ -32,8 +32,7 @@ const Index = ({data, location}) => {
 		  <SEO title="RD8" />
 		  
           <div className="about_page">
-		    <h4>Welcome to rd8 complex, my home, my website. I'm living in SV'80 0XMS lunar city, Moon, and Build rd8 complex on Mars base as well.
-        </h4>
+		    <h4>Welcome to rd8 complex, my home, my website. I'm living at SV'80 0XMS lunar city, Moon, and Operating ongoing-built of rd8 complex at Mars base.</h4>
 			<br />
 			<h4>I write <a className="mail_banner" href="/blog"> poem and tell fortunes
       </a>
@@ -44,7 +43,7 @@ const Index = ({data, location}) => {
 			</div>
 			
 		<p>
-		   1. Code : <a href="https://github.com/xadhrit/">Github</a>
+		   1. <a href="https://github.com/xadhrit/">Github</a>
 		   <br />
 		   2. <a href="https://x.com/xadhrit/">Twitter</a> 
 		   <br />
