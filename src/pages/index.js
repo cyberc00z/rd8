@@ -32,7 +32,8 @@ const Index = ({data, location}) => {
 		  <SEO title="RD8" />
 		  
           <div className="about_page">
-		    <h4>Welcome to rd8 complex, my home, my website. I'm living at SV'80 0XMS lunar city, Moon, and Operating ongoing-built of rd8 complex at Mars base.</h4>
+		    <h4>Welcome to rd8 complex, my home, my website. I'm living at SV'80 lunar city, Moon.
+        </h4>
 			<br />
 			<h4>I write <a className="mail_banner" href="/blog"> poem and tell fortunes
       </a>
