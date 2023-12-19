@@ -39,13 +39,15 @@ const Index = ({data, location}) => {
       </h4>
 			<br />
 			<div className="personal__info">
-			<p> Contact :  </p>
+			
 			</div>
 			
 		<p>
 		   1. <a href="https://github.com/xadhrit/">Github</a>
+
 		   <br />
-		   2. <a href="https://x.com/xadhrit/">Twitter</a> 
+		   <p>CONTACT : </p>
+		   2. <a href="https://x.com/xadhrit/">Twitter/X</a> 
 		   <br />
 		   3. <a href="https://instagram.com/xadhrit/">Instagram</a>
            <br />
