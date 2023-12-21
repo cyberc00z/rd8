@@ -51,8 +51,9 @@ const Index = ({data, location}) => {
          <br />  
        2. <a href="https://www.amazon.in/VOID-Adhrit-ebook/dp/B0B5HNGZM3">Books</a>
          <br />
-       3. <a href="https://opensea.io/adhrit">NFTs </a> 
-
+       3. <a href="https://opensea.io/adhrit">NFTs</a> 
+          <br />
+       4. <a href="https://www.youtube.com/@xadhrit">Youtube</a>  
 		   <br />
 		   <p>CONTACT : </p>
 		   1. <a href="https://x.com/xadhrit/">Twitter/X</a> 
