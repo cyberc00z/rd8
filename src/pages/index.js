@@ -46,26 +46,29 @@ const Index = ({data, location}) => {
 			
 			</div>
 			<p>
-		  <p>Work : </p>
-		   <br />
        1. <a href="https://github.com/xadhrit/">Github</a>
          <br />  
+
        2. <a href="https://www.amazon.in/VOID-Adhrit-ebook/dp/B0B5HNGZM3">Books</a>
          <br />
+
        3. <a href="https://opensea.io/adhrit">NFTs</a> 
           <br />
-       4. <a href="https://www.youtube.com/@xadhrit">Youtube</a>  
-		   <br />
-		   
 
-       <p>CONTACT : </p>
-		   <br />
-       1. <a href="https://x.com/xadhrit/">Twitter/X</a> 
-		   <br />
-		   2. <a href="https://instagram.com/xadhrit/">Instagram</a>
-           <br />
-		   3. <a href="mailto:adhirt77@gmail.com">adhirt77@gmail.com</a>
+       4. <a href="https://www.youtube.com/@xadhrit">Youtube</a>    
+          
+       <br />
+
+    
+       5. <a href="https://x.com/xadhrit/">Twitter/X</a> 
+		      <br/>
+
+		   6. <a href="https://instagram.com/xadhrit/">Instagram</a>
+           <br/>
+
+		   7. <a href="mailto:adhirt77@gmail.com">adhirt77@gmail.com</a>
        </p>
+
 		<div className="musicControls">
 		   <img src="https://t2.genius.com/unsafe/252x252/https%3A%2F%2Fimages.genius.com%2Ff89691712e7b01c1ac87b185c1efa724.1000x1000x1.jpg" alt="retro" />
 		    <div className="playbar">
