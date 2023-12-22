@@ -45,9 +45,10 @@ const Index = ({data, location}) => {
 			<div className="personal__info">
 			
 			</div>
-			
-		<p>
-		   1. <a href="https://github.com/xadhrit/">Github</a>
+			<p>
+		  <p>Work : </p>
+		   <br />
+       1. <a href="https://github.com/xadhrit/">Github</a>
          <br />  
        2. <a href="https://www.amazon.in/VOID-Adhrit-ebook/dp/B0B5HNGZM3">Books</a>
          <br />
@@ -55,8 +56,11 @@ const Index = ({data, location}) => {
           <br />
        4. <a href="https://www.youtube.com/@xadhrit">Youtube</a>  
 		   <br />
-		   <p>CONTACT : </p>
-		   1. <a href="https://x.com/xadhrit/">Twitter/X</a> 
+		   
+
+       <p>CONTACT : </p>
+		   <br />
+       1. <a href="https://x.com/xadhrit/">Twitter/X</a> 
 		   <br />
 		   2. <a href="https://instagram.com/xadhrit/">Instagram</a>
            <br />
