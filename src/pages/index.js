@@ -33,8 +33,7 @@ const Index = ({ data, location }) => {
       <div className="about_page">
         <p>Welcome to rd8 complex, my home, my website.
           <br />
-        </p>
-        <p> You can find my software projects at <a className="mail_banner" href="https://github.com/xadhrit">github</a>
+          You can find my software projects at <a className="mail_banner" href="https://github.com/xadhrit">github</a>
           .</p>
         <br />
         <p>I write <a className="mail_banner" href="/blog">poem, blogs, and tell fortunes. </a>
@@ -75,17 +74,18 @@ const Index = ({ data, location }) => {
           <br />
           3. <a className="mail_banner" href="https://youtube.com/@xadhrit">My Youtube </a>
           <br />
-          <iframe 
-            width="560" 
-            height="315" 
-            src="https://www.youtube.com/embed/hsiVQ_z8VYY?si=q2_IIkK3sCFFicIE" 
-            title="YouTube video player" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          <br />
+          <iframe
+            width="350"
+            height="250"
+            src="https://www.youtube.com/embed/hsiVQ_z8VYY?si=q2_IIkK3sCFFicIE"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen></iframe>
-         
-          
-         
+
+
+
         </p>
         <p>
           You can mail at <a className="mail_banner" href="mailto:adhirt77@gmail.com">adhirt77@gmail.com</a>
