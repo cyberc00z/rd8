@@ -31,7 +31,7 @@ const Index = ({ data, location }) => {
       <SEO title="RD8" />
 
       <div className="about_page">
-        <p>Welcome to rd8 complex, my home, my website.
+        <p>Welcome to adhrit's home on cosmos, the rd8 complex.
           <br />
           You can find my software projects at <a className="mail_banner" href="https://github.com/xadhrit">github</a>
           .</p>
@@ -51,17 +51,20 @@ const Index = ({ data, location }) => {
               src="https://i.seadn.io/gae/3QGVodq_M7RY5LMPLddgPWn3qv8uzd-8r1pJKzVVhlD2ht_S4ZM_r71VWT-HJGYFk1FcMaRFmQ6ce93EuoURw7m735JCzqnOLbjd?auto=format&dpr=1&w=828"
               height="100px"
               width="100px"
+              alt="adhrit nft"
             />
             <img
               src="https://i.seadn.io/gae/i8lwohh-ysrriKXTKn6K4IhRMK5zKXQ3xG1njAIdGlfcW2H1AVx_CIOEc_28B3plEX1J0jQCru4b1XNtp7C7y3i7JPzsDlFOlHKJ8mI?auto=format&dpr=1&w=828"
               height='100px'
               width='100px'
+              alt="adhrit nft"
 
             />
             <img
               src="https://i.seadn.io/gae/97ujJeziNIcHpv4ESIL5C5p-YaBeW-edWTQz9aG57W8cK6E30ghQOwhj5lJpE9RemjpzZhZMnjCBTEzI8GOyujMqdVr3yKcm_MxqQw?auto=format&dpr=1&w=828"
               height='100px'
               width='100px'
+              alt="adhrit nft"
             />
           </div>
         </p>
@@ -88,7 +91,7 @@ const Index = ({ data, location }) => {
 
         </p>
         <p>
-          You can mail at <a className="mail_banner" href="mailto:adhirt77@gmail.com">adhirt77@gmail.com</a>
+          You can mail me at <a className="mail_banner" href="mailto:adhirt77@gmail.com">adhirt77@gmail.com</a>
           <br />
         </p>
 
@@ -104,6 +107,7 @@ const Index = ({ data, location }) => {
             </button>
             <audio ref={audioRef}>
               <source src={retroMusic} type="audio/mp3" />
+                <track kind="captions" srcLang="en" label="English" default />
             </audio>
             <p>Namstatue</p>
           </div>
