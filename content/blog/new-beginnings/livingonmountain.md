@@ -34,7 +34,7 @@ description: thoughts these days and never ending stupidity
 <br />
 
 
-<div style="display: flex; justify-content: space-evenly; cursor: pointer; margin-top: 1.5vh">
+<div style="display: flex; flex: 1; justify-content: space-evenly; cursor: pointer; margin-top: 1.5vh">
 <img src="https://i.imgur.com/mdzfJMD.jpg" height="200px" width="150px" />
 <img src="https://i.imgur.com/jEjfunn.jpg" height="200px" width="150px" /></div>
 
@@ -69,7 +69,7 @@ series
 
 <br />
 
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; flex:1; justify-content: space-evenly;">
 <img src="https://i.ibb.co/mDzn9TH/SJ1k-Wj-HT-400x400.jpg" height="200px" width="200px" />
 <img src="https://i.imgur.com/KYnCRTY.jpg" height="200px" width="250px" />
 <img src="https://i.imgur.com/QEirMdc.png" height="200px" width="250px" /></div>
@@ -100,7 +100,7 @@ series
 <br />
 
 
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; flex:1; justify-content: space-evenly;">
 
 <img src="https://i.imgur.com/vMK5nMe.jpg" height="200px" width="250px" />
 <img src="https://i.imgur.com/s8wV3UX.jpg" height="200px" width="250px" />
