@@ -5,6 +5,7 @@ description: thoughts these days and never ending stupidity
 ---
 
 <link rel="stylesheet" type="text/css" script="../../src/pages/style.css" />
+
 ## Oct 30, 2023
 
 > The rebel enforces
