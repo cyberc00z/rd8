@@ -94,7 +94,7 @@ series
 <br />
 > looking for USA vs. China. vs. India's health data
 <br />
-> If war happens between India and China <p><a href="https://www.airuniversity.af.edu/Portals/10/JIPA/IndoPacificPerspectives/June%202021/06%20Ho.pdf">[water dispute, manufacture grudges, etc]</a>, then will INDIA put its soldiers against <a href="https://palmerluckey.com/america-is-back-on-top-baby/" alt="palmer luckey blog chain has the best drones" >china's drone, missiles and computer malwares?</a>where is India's tech? Is DRDO making things? Publicly don't know. ISRO why are you waiting for others? Atleast start a program on papers to make a base over moon </p>
+> If war happens between India and China <p><a href="https://www.airuniversity.af.edu/Portals/10/JIPA/IndoPacificPerspectives/June%202021/06%20Ho.pdf">[water dispute, manufacturing grudges, etc]</a>, then will INDIA put its soldiers against <a href="https://palmerluckey.com/america-is-back-on-top-baby/" alt="palmer luckey blog chain has the best drones" >china's drone, missiles and computer malwares?</a> Xi dont give a shit. Where is India's tech? Is DRDO making things? Publicly don't know. ISRO why are you waiting for others? Atleast start a program on papers to make a base over moon </p>
 <br />
 > rewatched - ex-machina, dazed and confused, and boyhood,
 <br />
