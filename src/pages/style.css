@@ -79,3 +79,29 @@ p > a {
     margin-top: 2vh;
     cursor: pointer;
 }
+
+.readmeImg {
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    margin-top: 2vh;
+    cursor: pointer; 
+}
+
+.readmeImg img {
+    height:30vh;
+    width: 90%;
+    padding: 2%;
+}
+
+@media only screen and (max-width: 600px) {
+    .readmeImg {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .readmeImg img {
+      margin-bottom: 20px;
+    }
+  }
+
