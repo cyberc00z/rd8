@@ -14,9 +14,9 @@ const BlogPostTemplate = ({ data: { previous,next,site, markdownRemark: post }, 
   const siteTitle = site.siteMetadata?.title || `Title`
   
 
-  const disqusConfig = {
+  const disqusConfig = { 
     shortname: `rd8`,
-    config: {identifier:siteTitle },
+    config: {identifier: post.fields.slug || post.id },
   }
 
   return (
@@ -102,6 +102,9 @@ export const pageQuery = graphql`
     }
     markdownRemark( id : { eq: $id }) {
       id
+      fields {
+        slug 
+      }
       excerpt(pruneLength: 160)
       html
       frontmatter {
