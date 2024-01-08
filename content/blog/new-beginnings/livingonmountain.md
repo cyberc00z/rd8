@@ -4,6 +4,7 @@ date: "2024-01-08"
 description: thoughts these days and never ending stupidity
 ---
 
+<link rel="stylesheet" type="text/css" script="../../src/pages/style.css" />
 ## Oct 30, 2023
 
 > The rebel enforces
@@ -34,9 +35,9 @@ description: thoughts these days and never ending stupidity
 <br />
 
 
-<div style="display: flex; flex: 1; justify-content: space-evenly; cursor: pointer; margin-top: 1.5vh">
-<img src="https://i.imgur.com/mdzfJMD.jpg" height="200px" width="150px" />
-<img src="https://i.imgur.com/jEjfunn.jpg" height="200px" width="150px" /></div>
+<div class="readmeImg">
+<img src="https://i.imgur.com/mdzfJMD.jpg"  />
+<img src="https://i.imgur.com/jEjfunn.jpg" /></div>
 
 ## Dec 30, 2023
 
@@ -69,10 +70,10 @@ series
 
 <br />
 
-<div style="display: flex; flex:1; justify-content: space-evenly;">
-<img src="https://i.ibb.co/mDzn9TH/SJ1k-Wj-HT-400x400.jpg" height="200px" width="200px" />
-<img src="https://i.imgur.com/KYnCRTY.jpg" height="200px" width="250px" />
-<img src="https://i.imgur.com/QEirMdc.png" height="200px" width="250px" /></div>
+<div class="readmeImg">
+<img src="https://i.ibb.co/mDzn9TH/SJ1k-Wj-HT-400x400.jpg" />
+<img src="https://i.imgur.com/KYnCRTY.jpg" />
+<img src="https://i.imgur.com/QEirMdc.png" /></div>
 
 
 
@@ -100,10 +101,10 @@ series
 <br />
 
 
-<div style="display: flex; flex:1; justify-content: space-evenly;">
+<div class="readmeImg">
 
-<img src="https://i.imgur.com/vMK5nMe.jpg" height="200px" width="250px" />
-<img src="https://i.imgur.com/s8wV3UX.jpg" height="200px" width="250px" />
-<img src="https://i.imgur.com/EDcRrjK.jpg" height="200px" width="250px" />
+<img src="https://i.imgur.com/vMK5nMe.jpg"  />
+<img src="https://i.imgur.com/s8wV3UX.jpg"  />
+<img src="https://i.imgur.com/EDcRrjK.jpg" />
 </div>
 
