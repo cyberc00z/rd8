@@ -153,6 +153,9 @@ Its a child wish! i'm a kid with cheeky picks. so we put your judgement out bitc
 143. Integration of AI with Human Consciousness (AI-Human S1ymbiosis)
 144. Holographs and Transparent Screens 
 145. Walking on Water like Jesus WALKED
+146. Can we build houses on water and use water?
+147. Find the Portal ? there is some dimensional error
+148. .....
 
 **BUT WAIT WHAT IS THE ENDGAME? ISN'T IT GOING TO BE A EVERGROWING LIST?**
 <br />
