@@ -154,6 +154,8 @@ Its a child wish! i'm a kid with cheeky picks. so we put your judgement out bitc
 144. Holographs and Transparent Screens 
 145. Walking on Water like Jesus WALKED
 
+**BUT WAIT WHAT IS THE ENDGAME? ISN'T IT GOING TO BE A EVERGROWING LIST?**
+<br />
 TECHNOLOGY SURELY HELP US TO EVOLVE OUR CONCIOUSNESS FASTELY AND IMPROVE THE WORLD AROUND. [its human who make stupid things to make technology to look bad {porn or sex-trafficing and internet's role in it or this whole tiktok shit}] 
 <br />
 BUT THE IMPROTANT THING IS "human2.0 / conciousness 2.0 coming?" 
