@@ -6,7 +6,9 @@ description: no lecture on Future, Just the way we enter there
 
 Its a child wish! i'm a kid with cheeky picks. so we put your judgement out bitch!
 
-## Future
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/688922986&color=%23866e4e&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+## FUTURE
 
 1. Quantum Computing Supremacy, Error Correction, Topological Quantum Computing
 2. AGI
@@ -164,5 +166,3 @@ TECHNOLOGY SURELY HELP US TO EVOLVE OUR CONCIOUSNESS FASTELY AND IMPROVE THE WOR
 BUT THE IMPROTANT THING IS "human2.0 / conciousness 2.0 coming?" 
 <br />
 **Can we find out the TRUTH?**
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/768166810&color=%235c4c3c&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/azadirecords" title="Azadi Records" target="_blank" style="color: #cccccc; text-decoration: none;">Azadi Records</a> · <a href="https://soundcloud.com/azadirecords/mmm-seedhe-maut-x-sez-on-the-beat" title="&#x27;MMM&#x27; - Seedhe Maut x Sez On The Beat" target="_blank" style="color: #cccccc; text-decoration: none;">&#x27;MMM&#x27; - Seedhe Maut x Sez On The Beat</a></div>

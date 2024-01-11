@@ -6,6 +6,10 @@ description: thoughts these days and never ending stupidity
 
 <link rel="stylesheet" type="text/css" script="../../src/pages/style.css" />
 
+<p>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218714618&color=%235c4c3c&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</p>
+
 ## Oct 30, 2023
 
 > The rebel enforces
@@ -115,4 +119,3 @@ Now song?
 
 <br />
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218714618&color=%235c4c3c&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/soosuketa" title="SoosBeats" target="_blank" style="color: #cccccc; text-decoration: none;">SoosBeats</a> · <a href="https://soundcloud.com/soosuketa/the-man-who-stole-the-sun" title="The Man Who Stole The Sun" target="_blank" style="color: #cccccc; text-decoration: none;">The Man Who Stole The Sun</a></div>
