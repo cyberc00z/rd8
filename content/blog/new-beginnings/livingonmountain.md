@@ -6,8 +6,7 @@ description: thoughts these days and never ending stupidity
 
 <link rel="stylesheet" type="text/css" script="../../src/pages/style.css" />
 
-<p>
-<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218714618&color=%235c4c3c&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<p><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1715358348&color=%23866e4e&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </p>
 
 ## Oct 30, 2023
