@@ -111,10 +111,3 @@ series
 <img src="https://i.imgur.com/s8wV3UX.jpg"  />
 <img src="https://i.imgur.com/EDcRrjK.jpg" />
 </div>
-
-<br />
-
-Now song? 
-
-<br />
-
