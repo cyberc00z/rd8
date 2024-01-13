@@ -30,11 +30,11 @@ p > a {
     flex: 1;
     justify-content: space-evenly;
     margin-top: 2vh;
-    cursor: pointer; 
+    cursor: pointer;  
 }
 
 .readmeImg img {
-    height:30vh;
+    height:20vh;
     width: 90%;
     padding: 2%;
 }
