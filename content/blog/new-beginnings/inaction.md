@@ -15,7 +15,9 @@ description: Please! GOD possess me!
 
 Damn bro wouldn’t wanna be you
 Banned on tiktok?
+<br />
 Banned on stripe?
+<br />
 You’re probs not using Blomerce which is the #1 verified seller of gateways and ad accounts.
 If we cannot pull through you will get a full refund or replacement. And we have the quickest delivery times out of any seller. Stop costing yourself 30,000 dollars by waiting 3 weeks and shop with us today!
 

@@ -34,8 +34,8 @@ p > a {
 }
 
 .readmeImg img {
-    height:20vh;
-    width: 32vw;
+    height:100%;
+    width: 90%;
     padding: 2%;
 }
 
@@ -50,8 +50,3 @@ p > a {
     }
   }
 
-/* inaction.md */
-.h21 > p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 2rem;
-}
