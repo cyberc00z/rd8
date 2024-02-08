@@ -1,5 +1,5 @@
 ---
-title: Inaction, Greed, Too Many LA 
+title: Inaction, Greed, Too Much LA 
 date: "2024-02-08"
 description: Please! GOD possess me!
 ---
