@@ -16,7 +16,7 @@ const Blog = ({ data, location }) => {
 		    <Link to="/blog" />
         <Bio />
         <p>
-          No blog posts found. 
+          WILL WRITE A BLOG SOMEDAY!
         </p>
       </Layout>
     )
