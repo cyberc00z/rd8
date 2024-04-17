@@ -125,7 +125,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#ffffff`,
         display: `minimal-ui`,
-        icon: `content/assets/image.jpg`,
+        icon: `content/assets/bg2.jpg`,
       },
     },
     
