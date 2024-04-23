@@ -38,6 +38,7 @@ description: thoughts these days and never ending stupidity
 <div class="readmeImg">
 <img src="https://i.imgur.com/mdzfJMD.jpg"  />
 <img src="https://i.imgur.com/jEjfunn.jpg" /></div>
+
 ## Dec 30, 2023
 > went for mashroom trip music event
 <br />
@@ -68,6 +69,7 @@ series
 <img src="https://i.ibb.co/mDzn9TH/SJ1k-Wj-HT-400x400.jpg" />
 <img src="https://i.imgur.com/KYnCRTY.jpg" />
 <img src="https://i.imgur.com/QEirMdc.png" /></div>
+
 ## Jan 8, 2024
 > no gym still, no sleeping routine, almost bored with all kind of animes
 <br />
