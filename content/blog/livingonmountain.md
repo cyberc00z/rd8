@@ -24,6 +24,7 @@ description: thoughts these days and never ending stupidity
 > He said, “he’s ill”
 <br />
 > I think he’s giving me a rockafella pill.
+
 ## Nov 30, 2023
 > Days hitting me hard, propelling the sadness 
 <br />
