@@ -14,7 +14,7 @@ const Index = ({ data, location }) => {
       <SEO title="RD8" />
 
       <div className="about_page">
-        <p>Welcome to adhrit's home on cosmos, the rd8 complex.
+        <p>Welcome to Adhrit's home on cosmos, the rd8 complex.
           <br />
           You can find my software projects at <a className="mail_banner" href="https://github.com/xadhrit">github</a>
           .</p>

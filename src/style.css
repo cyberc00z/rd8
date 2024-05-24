@@ -1,4 +1,6 @@
 /* CSS Custom Properties Definitions */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
 
 :root {
   --maxWidth-none: "none";
@@ -32,6 +34,7 @@
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --fontFamily-serif: "Merriweather", "Georgia","Times New Roman",
     Times, serif;
+  --fontFamily-josefin:'Josefin Sans', sans-serif;
   --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
   --fontWeight-normal: 400;
@@ -82,7 +85,18 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
-  background-image:url('../content/assets/bg2.jpg');
+  background-image:url('../content/assets/bg2.jpg'); 
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
+  
+}
+
+body.body-404 {
+  font-family: var(--font-body);
+  font-size: var(--fontSize-1);
+  color: var(--color-heading);
+  background-image: url('../content/assets/bg.jpg');
   background-repeat: no-repeat;
   background-size:cover;
   background-position:center;
@@ -178,9 +192,13 @@ p {
   line-height: var(--lineHeight-relaxed);
   --baseline-multiplier: 0.179;
   --x-height-multiplier: 0.35;
+  font-family: var(--fontFamily-josefin);
+  font-weight: 400;
+  font-size: var(--fontSize-3);
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
   padding: var(--spacing-0);
   color: bisque;
+
 }
 
 ul,
