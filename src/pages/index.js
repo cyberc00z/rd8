@@ -53,12 +53,11 @@ const Index = ({ data, location }) => {
         </p>
         <p>
           <h4>Socials: </h4>
-          1. <a className="mail_banner" href="https://x.com/xadhrit/">Twitter/X</a>
+          1. <a className="mail_banner" href="https://x.com/xadhrit/">X/@xadhrit</a>
           <br />
 
-          2. <a className="mail_banner" href="https://instagram.com/xadhrit/">Instagram</a>
+          2. <a className="mail_banner" href="https://instagram.com/xadhrit/">Instagram/@xadhrit</a>
           <br />
-          3. <a className="mail_banner" href="https://youtube.com/@xadhrit">My Youtube </a>
           <br />
           <br />
           <iframe
