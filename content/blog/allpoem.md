@@ -8,203 +8,248 @@ description: Immortality is the greatest thing ever.
 
 # Age-20
 
+[  I  ]
+<br />
+   Y'all lost in the city of sci-blocks   
+<br />
+   Mixing and mastering all the beats to beat your younger self
+<br />
+   But nothing works when you sleeps with stan
+<br />
+   Because he doesn't pardon your lies, even there is no button to minimize
+<br />
+   Apprently, I was thrown , Adhrit reached at some height
+<br />
+   But in reality he cann't survive, So with all dignity he must die
+<br />
+   Miracles wouldn't happen when one's dead, now it's code work to walk from graves
+<br />
+   mortals tell you nothing because they are woke. 
+<br /> 
+   There is no question left for soul ^^loser!!
+<br />
+   who can't see through the mist
+<br />
+   all accept my pardon.
+<br />
 
-   Yu'all lost in the city of sci-blocks   
-<br />
-Mixing and mastering all the beats to beat your younger self
-<br />
-But nothing works when you sleeps with stan 
-<br />
-Because he doesn't pardon your lies, even there is no button to minimize
-<br />
-Apprently, I was thrown , Adhrit reached at some height
-<br />
-But in reality he cann't survive, So with all dignity he must die
-<br />
-Miracles wouldn't happen when one's dead, now it's code work to walk from graves
-<br />
-mortals tell you nothing because they are woke. 
-<br />
-There is no question left for soul ^^loser!!
-
-who can't see through the mist
-
-all accept my pardon
-
-I was such a waste
-<br />
-Rejected, Unexpected, brutally murdered and paralaysed
-breathing chemicals and wearing salions 
-<br />
-protest against one's mind
-hormons you can't resist
-<br />
-aren't motive of intellect
-price must be paid whether with soul or chirs
-<br />
-Oh! damn, I can't see with my eyes
-<br />
-I need to prepare a little
-mostly via magic and spell
-don't become another prostitute
-<br />
-neither fuck your hands or another soul
-love never found
-<br />
-or my lover died in pendamic
-all subject of my mind
-I know I am nothing
-<br />
-But I know hole is the greatest thing ever to find.
-Pournig the dust into ditch
-body not accepting smokes and wines
-<br />
-I think I need to quit
-Don't pardon me for my deeds.
-<br />
-I deserve more pain
-more pain enough to mesmerize into her memories. 
-<br />
-But the question is "Who is her?"
-<br />
-I hope no one will find my dark secret.
-<br />
-You are a lie, a persona of bribe
-I am robotman with sting penis in size
-<br />
-Clouds will come and give me place
-i guess messiah has arrived!!
-well said!!
-#    Petals   
-Forgive me , I can't stay all night in your dreams,
-<br />
-Watching your rose petals with mournful beams,
-<br />
-God of Time requesting me to endure more and more,
-<br />
-thou spirits cheering with diabolic reems.
-<br />
-As I see more of you, 
-<br />
-we came together on bed of cosmos
-<br />
-Dancing through lives and deaths,
-<br />
-Adjoining stars and moons
-<br />
-We are becoming  thyself,
-losing ourselves. 
-<br />
-Your lewdness, your curls, your scent, your enigma 
-<br />
-all burning suns.
-<br />
-I can't let you vanish in deep forest of galaxies,
-<br />
-promised to your alluring womanhood.
-<br />
-Thou, Sun has cut out my throat,
-<br />
-So I can't speak.
-<br />
-Magnetic pearls plunging from your eyes,
-<br />
-are symbols of Saturn's grieves,
-<br />
-Forgive me, herra , if i can’t speak.
-<br />
-Blue suite and  cheeze songs,
-<br />
-All explode fires in metals,
+[  II  ]
 <br/>
-Keels , vampires and matters,
+   I was such a wasted
 <br />
-I love to feel your Petals.
+   Rejected, Unexpected, brutally murdered and paralaysed
 <br />
-Likewise Elizabeth and Mr. Darcy,
+   breathing chemicals and wearing salions 
 <br />
-our chemistry as Sherlock and Moriarty.
+   protesting against one's mind
 <br />
-We can seperate but can't die different.
+   hormons you can't resist
 <br />
-Nonetheless, life without you, doesn't matter.
+   aren't motive of intellect
 <br />
-Like forest gump, you runs in my mind
+   price must be paid whether with soul or chirs
 <br />
-without you , the universe is blind.
+   Oh! damn, I can't see with my eyes
 <br />
-Your white spirit, your petals redolence, your moving tilts
+   I need to prepare a little
 <br />
-can shrug agonies of god's world.
+   mostly via magic and spell
 <br />
-Grace, Juliet and Jane all neath you,
+   don't become another prostitute
 <br />
-You are bewildering fire of my heart. 
+   neither fuck your hands or another soul
 <br />
-You are Mery’s favourite petal. 
+   love never found
 <br />
-Come and disdain my pain,
+   or my lover died in pendamic
+<br />
+   all subject of my mind.
+<br  />
+
+[  III  ]
+<br />
+   I know I am nothing
+<br />
+   But I know hole is the greatest thing ever to find.
+<br />
+   Pournig the dust into ditch
+<br />
+   body not accepting smokes and wines
+<br />
+   I think I need to quit
+<br />
+   Don't pardon me for my crimes.
+<br />
+   I deserve more pain
+<br />
+   more pain enough to mesmerize into her memories. 
+<br />
+   But the question is "Who is her?"
+<br />
+   I hope no one will find my dark secret.
+<br />
+   You are a lie, a persona of bribe
+<br />
+   I am robotman with sting penis in size
+<br />
+   Clouds will come and give me place
+<br />
+   I guess messiah has arrived!!
+<br />
+   well said!!
 <br/>
-My petal, I am here, recumbencing on Eve’s puddle.
+
+# Petals
+
+[ I ]
 <br />
-End!! 
+   Forgive me , I can't stay all night in your dreams,
+<br />
+   Watching your rose petals with mournful beams,
+<br />
+   God of Time requesting me to endure more and more,
+<br />
+   thou spirits cheering with diabolic reems.
+<br />
+   As I see more of you, 
+<br />
+   we came together on bed of cosmos
+<br />
+   Dancing through lives and deaths,
+<br />  
+   Adjoining stars and moons
+<br />
+   We are becoming  thyself, losing ourselves. 
+<br />
+
+[  II  ]
+<br />
+   Your lewdness, your curls, your scent, your enigma 
+<br />
+   all burning suns.
+<br />
+   I can't let you vanish in deep forest of galaxies,
+<br />
+   promised to your alluring womanhood.
+<br />
+   Thou, Sun has cut out my throat,
+<br />
+   So I can't speak.
+<br />
+   Magnetic pearls plunging from your eyes,
+<br />
+   are symbols of Saturn's grieves,
+<br />
+   Forgive me, herra , if i can’t speak.
+<br />
+   Blue suite and  cheeze songs,
+<br />
+   All explode fires in metals,
+<br/>
+   Keels , vampires and matters,
+<br />
+   I love to feel your Petals.
+<br />
+
+[  III  ]
+<br />
+   Likewise Elizabeth and Mr. Darcy,
+<br />
+   our chemistry as Sherlock and Moriarty.
+<br />
+   We can seperate but can't die different.
+<br />
+   Nonetheless, life without you, doesn't matter.
+<br />
+   Like forest gump, you runs in my mind
+<br />
+   without you , the universe is blind.
+<br /> 
+   Your white spirit, your petals redolence, your moving tilts
+<br />
+   can shrug agonies of god's world.
+<br />
+   Grace, Juliet and Jane all neath you,
+<br />
+   You are bewildering fire of my heart. 
+<br />
+   You are Mery’s favourite petal. 
+<br />
+   Come and disdain my pain,
+<br/>
+   My petal, I am here, recumbencing on Eve’s puddle.
+<br />
+   End!! 
+<br />
 
 I just kept imaging, we walking in Boston streets with cold deadly breeze.
 The sparkling sunshine, decorating lavendar petals lying on roadside puddles and if somebody noticed us standing there, we would be the freaks just roaming there.
 
 # Transformation
-Trauma never heals, as you can’t see it until tears appeals.
-<br />
-I’ve never seen burn down faces, only red therapists.
-<br />
-Ripped off, shit on couch, and never lied,
-<br />
-I see faces around corners in my house,
-<br />
-Mom’d seen red lady twice before I uprise.
-<br />
-Dogs barks in dark , gate hollowcasts whole night,
-<br />
-We don’t know what happened that night,
-<br />
-As I write this verse , feels like creative inside me died.
-<br />
-Don’t be so hard on yourself, you need doctor,
-<br />
-Enginnering’s verge are same as tenth grade geometry and protector.
-<br />
-What hurts most ?
-<br />
-Everyone flying off to dreamland, or she fled to your dreamland without you.
-<br />
-I thought off getting started tomorrow, demons hits hard me in the morning,
-<br />
-not able to get up from bed till six in evening,
-<br />
-Nor I fell asleep neither I died.
-<br />
-Every passing moment , fading off my pride.
-<br />
-I don’t take moral supplements,
-<br />
-Crowd passing judgments with compliments.
-<br />
-What’s wrong with this kid,
-<br />
-What will he do without societal adjustments
-<br />
-Die on roads, and living with worms
-<br />
-I’ll become the greatest god ever alive,
-<br />
-cause I’d planned to never die.
-<br />
-I altereted my sense with unconsciousness,
-<br />
-Am I Godsend or Am I God?
-<br />
-This is transformation.
 
+[ I ]
+<br />
+   Trauma never heals, as you can’t see it until tears appeals.
+<br />
+   I’ve never seen burn down faces, only red therapists.
+<br />
+   Ripped off, shit on couch, and never lied,
+<br />
+   I see faces around corners in my house,
+<br />
+   Mom’d seen red lady twice before I uprise.
+<br />
+   Dogs barks in dark , gate hollowcasts whole night.
+<br />
+
+[  II ]
+<br />  
+   We don’t know what happened that night,
+<br />
+   As I write this verse , feels like creative inside me died.
+<br />
+   Don’t be so hard on yourself, you need doctor,
+<br />
+   Enginnering’s verge are same as tenth grade geometry and protector.
+<br />
+   What hurts most ?
+<br />
+
+[  III  ]
+<br />
+   Everyone flying off to dreamland, or she fled to your dreamland without you.
+<br />
+   I thought off getting started tomorrow, demons hits hard me in the morning,
+<br />
+   not able to get up from bed till six in evening,
+<br />
+   Nor I fell asleep neither I died.  
+<br />
+   Every passing moment , fading off my pride.
+<br />
+   I don’t take moral supplements,
+<br />
+   Crowd passing judgments with compliments.
+<br />
+
+[  IV  ]
+<br />
+   What’s wrong with this kid,
+<br />
+   What will he do without societal adjustments,
+<br />
+   Die on roads, and living with worms
+<br />
+   I’ll become the greatest god ever alive,
+<br />
+   cause I’d planned to never die.
+<br />
+   I altereted my sense with unconsciousness,
+<br />
+   Am I Godsend or Am I God?
+<br />
+   This is transformation.
+<br />
 
 #    Winning   
 [  I  ]

@@ -4,14 +4,15 @@ import {StaticImage} from "gatsby-plugin-image"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
+  
   query BioQuery {
-    avatar: file(absolutePath: { regex: " /image.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/content/assets/bio.jpg/" }) {
       childImageSharp {
         fixed(width: 50, height: 50, quality: 95) {
-          ...GatsbyImageSharpFixed
-        }
-      }
+           ...GatsbyImageSharpFixed
+         }
     }
+  }
       site {
         siteMetadata {
           author {
@@ -40,10 +41,11 @@ const Bio = () => {
           alt={author?.name || ``}
           className="bio-avatar"
           layout="fixed"
-          src="https://avatars.githubusercontent.com/u/60598818?v=4"
-          width={50}
-          height={50}
-          quality={95}
+          formats={["auto","webp","jpg","png"]}
+          src="../../content/assets/bio.jpg"
+          width={70}
+          height={70}
+          quality={100}
         />
       )}
       {author?.name && (
