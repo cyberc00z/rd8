@@ -8,7 +8,7 @@ module.exports = {
       name: `Adhrit`,
     },
     description: ``,
-    siteUrl: `https://rd8.netlify.app`,
+    siteUrl: `https://0xecc.space`,
     social: {
       insta: `xadhrit`,
     },
