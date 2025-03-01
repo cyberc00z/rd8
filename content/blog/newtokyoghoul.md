@@ -1,7 +1,7 @@
 ---
 title: New Tokyo Ghoul
 date: "2025-03-03"
-description: INDIA, THE DEMOCRACY, THE NEW TOKYO GHOUL
+description: india, the democracy, the new tokyo ghoul
 ---
 
 > "What's wrong isn't me, what's wrong is the world!"
