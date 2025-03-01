@@ -6,10 +6,9 @@ description: partly truth, partly fiction
 
 > "When you have an atomic bomb, you can do anything you want. The funny part is ... I have no idea what I want. If you were me -- what would you want?" -- Makoto Kido
 
-
-![Makoto Kido](https://i.imgur.com/TST5bZP.jpeg)
-
-
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/TST5bZP.jpeg" alt="Makoto Kido" width="500">
+</div>
 
 
 This character is closest to my heart. It's the reflection of me in the truest sense. The poetry of my soul. It's a memento of me being somewhere in somebody's mind amid the grandness of life. 

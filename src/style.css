@@ -58,12 +58,12 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   --color-primary: #146fac;
-  --color-text:white;
-  --color-text-light: #4f5969;
+  --color-text:rgb(8, 5, 5);
+  --color-text-light: #22252b;
   --color-heading: #1a202c;
   --color-heading-black: black;
-  --color-accent: #d1dce5;
-  --color-hover:rgb(245, 255, 254);
+  --color-accent: #000000;
+  --color-hover:rgb(1, 3, 3);
 }
 
 /* HTML elements */
@@ -85,22 +85,12 @@ body {
   font-family: var(--fontFamily-josefin);
   font-size: var(--fontSize-1);
   color: var(--color-text);
-  background-image:url('../content/assets/bg2.jpg'); 
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-position:center;
-  
 }
 
 body.body-404 {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
-  color: var(--color-heading);
-  background-image: url('../content/assets/bg.jpg');
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-position:center;
-  
+  color: var(--color-heading);  
 }
 
 footer {
@@ -137,7 +127,7 @@ h5,
 h6 {
   font-weight: var(--fontWeight-bold);
   /*color: var(--color-heading);*/
-  color: white;
+  color: rgb(0, 0, 0);
 }
 /*
 h2:hover{
@@ -183,7 +173,7 @@ h4 > a,
 h5 > a,
 h6 > a {
   text-decoration: none;
-  color: whitesmoke;
+  color: rgb(27, 25, 25);
 }
 
 /* Prose */
@@ -197,7 +187,7 @@ p {
   font-size: var(--fontSize-3);
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
   padding: var(--spacing-0);
-  color: bisque;
+  color: rgb(19, 17, 16);
 
 }
 

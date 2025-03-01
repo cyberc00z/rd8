@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `rd8 Blog`,
+    title: `0xecc Blog`,
     author: {
       name: `Adhrit`,
     },
@@ -99,7 +99,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "rd8-blog"
+            title: "0xecc-blog"
           },
         ],
       },
@@ -120,7 +120,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `rd8-blog`,
+        name: `0xecc-blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,

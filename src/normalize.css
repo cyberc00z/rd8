@@ -22,11 +22,6 @@ html {
 
 body {
   margin: 0;
-  background: url('../content/assets/bg2.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size:100vh; 
   /*max-height: 100vh;*/
   /*max-width: 100vw;*/
   
