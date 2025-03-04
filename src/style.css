@@ -58,12 +58,12 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   --color-primary: #146fac;
-  --color-text:rgb(8, 5, 5);
-  --color-text-light: #22252b;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
-  --color-accent: #000000;
-  --color-hover:rgb(1, 3, 3);
+  --color-text:rgb(36, 16, 56);
+  --color-text-light: #081a3d;
+  --color-heading: #08193a;
+  --color-heading-black: rgb(148, 125, 228);
+  --color-accent: #160303;
+  --color-hover:rgb(3, 48, 48);
 }
 
 /* HTML elements */
@@ -127,7 +127,7 @@ h5,
 h6 {
   font-weight: var(--fontWeight-bold);
   /*color: var(--color-heading);*/
-  color: rgb(0, 0, 0);
+  color: rgb(39, 8, 8);
 }
 /*
 h2:hover{
@@ -173,7 +173,7 @@ h4 > a,
 h5 > a,
 h6 > a {
   text-decoration: none;
-  color: rgb(27, 25, 25);
+  color: rgb(47, 15, 228);
 }
 
 /* Prose */
