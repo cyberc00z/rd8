@@ -7,9 +7,8 @@ description: the new tokyo ghoul
 > "What's wrong isn't me, what's wrong is the world!"
 
 
-
 <div style="text-align: center;">
-  <img src="https://i.pinimg.com/736x/c6/d0/fa/c6d0faf4f302df6a230f58b42dba50b3.jpg" alt="Tokyo Ghoul" width="500">
+  <img src="https://i.pinimg.com/736x/c6/d0/fa/c6d0faf4f302df6a230f58b42dba50b3.jpg" alt="Tokyo Ghoul" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 </div>
 
 
