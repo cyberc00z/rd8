@@ -7,8 +7,8 @@ body {
 }
 
 
-.about_page > h4{
-    color: rgb(2, 0, 7);
+.home_page > h4{
+    color: rgb(144, 101, 255);
 }
 .personal__info  > p{
    color: rgb(3, 0, 0);
@@ -16,12 +16,12 @@ body {
 }
 
 p > a {
-    color: rgb(4, 7, 8);
+    color: rgb(109, 233, 255);
 }
 
 .mail_banner {
-    background-color: rgba(29, 20, 1, 0.4);
-    color: rgb(0, 0, 0);
+    background-color: rgba(61, 185, 235, 0.4);
+    color: rgb(20, 6, 82);
 }
 
 .nfts {

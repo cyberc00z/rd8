@@ -1,63 +1,87 @@
-import React, { useState, useEffect } from "react";
+import React from 'react';
 import SEO from "../components/seo";
 import Layout from "../components/layout";
+import { graphql } from "gatsby"
 import './style.css';
-import { Link, graphql } from "gatsby";
-import Bio from "../components/bio";
-
-
 
 
 const Index = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`;
-
-  const posts = data.allMarkdownRemark.nodes
-
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <SEO title="All posts" />
-		    <Link to="/blog" />
-        <Bio />
-        <p>
-          WILL WRITE A BLOG SOMEDAY!
-        </p>
-      </Layout>
-    )
-  }
+  const siteTitle =  ``;
 
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="RD8" />
-       {posts.map(post => {
-              const title = post.frontmatter.title || post.fields.slug
-              return (
-                <article
-                  key={post.fields.slug}
-                  className="post-list-item"
-                  itemScope
-                  itemType="http://schema.org/Article">
-                  <header>
-                    <h2>
-                      <Link to={post.fields.slug} itemProp="url">
-                        <span itemProp="headline">{title}</span>
-                      </Link>
-                    </h2>
-                    <small>{post.frontmatter.date}</small>
-                  </header>
-                  <section>
-                    <p
-                      dangerouslySetInnerHTML={{
-                        __html: post.frontmatter.description || post.excerpt,
-                      }}
-                      itemProp="description"
-                    />
-                  </section>
-                </article>
-              )
-            })}
+      <SEO title="Adhrit's Home" />
 
+      <div className="home_page">
+        <p>Welcome to Adhrit's home on cosmos, the rd8 complex.
+          <br />
+          You can find my software projects at <a className="mail_banner" href="https://github.com/xadhrit">github</a>
+          .</p>
+        <br />
+        <p>I write <a className="mail_banner" href="/blog">poems, blogs, and tell fortunes. </a>
+        </p>
+        <p>
+          I've also published a poetry collection by the title <a className="mail_banner" href="https://www.amazon.in/VOID-Adhrit-ebook/dp/B0B5HNGZM3">VOID</a>
+          .
+        </p>
+        <br />
+        <p>
+          Buy my nfts at <a className="mail_banner" href="https://opensea.io/adhrit">opensea/adhrit</a>
+          <br />
+          <div className="nfts">
+            <img
+              src="https://i.seadn.io/gae/3QGVodq_M7RY5LMPLddgPWn3qv8uzd-8r1pJKzVVhlD2ht_S4ZM_r71VWT-HJGYFk1FcMaRFmQ6ce93EuoURw7m735JCzqnOLbjd?auto=format&dpr=1&w=828"
+              height="100px"
+              width="100px"
+              alt="adhrit nft"
+            />
+            <img
+              src="https://i.seadn.io/gae/i8lwohh-ysrriKXTKn6K4IhRMK5zKXQ3xG1njAIdGlfcW2H1AVx_CIOEc_28B3plEX1J0jQCru4b1XNtp7C7y3i7JPzsDlFOlHKJ8mI?auto=format&dpr=1&w=828"
+              height='100px'
+              width='100px'
+              alt="adhrit nft"
+
+            />
+            <img
+              src="https://i.seadn.io/gae/97ujJeziNIcHpv4ESIL5C5p-YaBeW-edWTQz9aG57W8cK6E30ghQOwhj5lJpE9RemjpzZhZMnjCBTEzI8GOyujMqdVr3yKcm_MxqQw?auto=format&dpr=1&w=828"
+              height='100px'
+              width='100px'
+              alt="adhrit nft"
+            />
+          </div>
+        </p>
+        <p>
+          <h4>Socials: </h4>
+           
+          1. <a className="mail_banner" href="https://x.com/xadhrit/">X/@xadhrit</a>
+          <br />
+
+          
+          2. <a className="mail_banner" href="https://instagram.com/xadhrit/">Instagram/@xadhrit</a>
+          <br />
+          3. <a className="mail_banner" href="https://youtube.com/@xadhrit">My Youtube </a>
+           
+          <br />
+          <iframe
+            width="350"
+            height="250"
+            src="https://www.youtube.com/embed/i5qcRjJOTYA?si=pblqj8EIJB59VAHa"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+
+
+
+        </p>
+        <p>
+          You can mail me at <a className="mail_banner" href="mailto:xadhrit@gmail.com">xadhrit@gmail.com</a>
+          <br />
+        </p>
+        <br />
+        <p>Your Location : SV'80 lunar city, Moon.</p>
+      </div>
 
     </Layout>
   )
@@ -66,25 +90,12 @@ const Index = ({ data, location }) => {
 
 export default Index;
 
-export const pageQuery =graphql`
-query {
-  site {
-    siteMetadata {
-      title
-    }
+export const pageQuery = graphql`
+  query {
+	  site{
+		  siteMetadata {
+			  title
+		  }
+	  }
   }
-  allMarkdownRemark(sort: { frontmatter: {date: DESC }}) {
-    nodes {
-      excerpt
-      fields {
-        slug
-      }
-      frontmatter {
-        date(formatString: "MMMM DD, YYYY")
-        title
-        description
-      }
-    }
-  }
-}
 `
